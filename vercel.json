@@ -3,9 +3,7 @@
     "api/index.py": {
       "maxDuration": 30,
       "memory": 1024,
-      "includeFiles": [
-        "FirstDataandInfo.md"
-      ]
+      "includeFiles": "FirstDataandInfo.md"
     }
   }
 } 
