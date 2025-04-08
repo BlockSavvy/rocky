@@ -13,10 +13,10 @@ import { ScrollArea } from "@/components/ui/scroll-area";
 import { Toaster, toast } from "sonner"; // Corrected toast import
 import { Card, CardContent } from '@/components/ui/card'; // For chat bubbles
 
-// Use relative paths for API calls when deployed on Vercel
-// For local dev with `vercel dev`, this will also work.
-// If running frontend/backend separately locally, you might need localhost
-const API_BASE_URL = '/api'; 
+// Use environment variable for API base URL
+// Fallback to localhost:8000 for local dev if variable not set
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || 'http://localhost:8000/api';
+console.log(`Using API Base URL: ${API_BASE_URL}`); // Log for debugging
 
 export default function Home() {
   // Chat State

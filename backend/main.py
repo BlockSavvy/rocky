@@ -25,22 +25,20 @@ google_api_key = os.getenv("GOOGLE_API_KEY")
 if not google_api_key:
     raise ValueError("GOOGLE_API_KEY not found in environment variables. Please create a .env file.")
 
-DATA_PATH = "../FirstDataandInfo.md" # Path is now relative to api/index.py
+DATA_PATH = "../FirstDataandInfo.md" # Relative to backend/main.py
 
 # --- FastAPI App Setup ---
-# Vercel expects the FastAPI app instance to be named 'app'
-app = FastAPI(title="Rocky Rehab AI Assistant Backend - Serverless")
+app = FastAPI(title="Rocky Rehab AI Assistant Backend") # Removed - Serverless suffix
 
 # --- CORS Middleware ---
-# Allow requests from Vercel deployment URLs and localhost
-# Adjust origins as needed for production/preview deployments
+# Adjust origins based on your deployment targets
 origins = [
-    "http://localhost:3000",
+    "http://localhost:3000",      # Local Next.js dev
     "http://127.0.0.1:3000",
-    # Add your Vercel frontend deployment URL pattern here later, e.g.:
-    # "https://*.vercel.app", 
+    # Add Vercel deployment URL(s) later
+    # e.g., "https://rocky-frontend-*.vercel.app", "https://your-prod-domain.com"
+    # Add Render backend URL if needed for direct access (usually not needed if frontend proxies)
 ]
-
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
@@ -54,7 +52,7 @@ def setup_rag_pipeline():
     try:
         # 1. Load Document Content Directly
         script_dir = os.path.dirname(os.path.abspath(__file__))
-        absolute_data_path = os.path.join(script_dir, DATA_PATH)
+        absolute_data_path = os.path.normpath(os.path.join(script_dir, DATA_PATH)) # Use normpath for safety
         print(f"Reading document content from: {absolute_data_path}")
         if not os.path.exists(absolute_data_path):
             raise FileNotFoundError(f"Initial resource file not found at resolved path: {absolute_data_path}")
@@ -186,7 +184,7 @@ def load_initial_resources():
     """Loads the initial markdown file into the resources store."""
     try:
         script_dir = os.path.dirname(os.path.abspath(__file__))
-        absolute_data_path = os.path.join(script_dir, DATA_PATH)
+        absolute_data_path = os.path.normpath(os.path.join(script_dir, DATA_PATH))
         print(f"Loading initial resource content from: {absolute_data_path}")
         if not os.path.exists(absolute_data_path):
              print(f"Warning: Initial resource file {absolute_data_path} not found. Skipping.")
@@ -216,7 +214,7 @@ class ChatMessage(BaseModel):
 
 @app.get("/")
 def read_root():
-    return {"message": "Rocky Rehab Backend is running!"}
+    return {"message": "Rocky Rehab Backend (Render) is running!"}
 
 @app.post("/api/chat")
 async def chat_endpoint(chat_message: ChatMessage):
@@ -269,4 +267,8 @@ async def get_resources():
 
 # --- Optional: Add POST/PUT/DELETE for resources later ---
 
-# Note: Uvicorn run block should NOT be present for serverless functions.
+# Add back uvicorn run command for local testing (Render uses Dockerfile)
+if __name__ == "__main__":
+    import uvicorn
+    # Run on 0.0.0.0 to be accessible within Docker/Render network
+    uvicorn.run(app, host="0.0.0.0", port=8000) 
