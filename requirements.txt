@@ -10,7 +10,7 @@ langchain-google-genai
 langchain-community
 
 # Document Loading
-markdown
+# markdown # Removed
 # unstructured # Removed - too large for serverless
 
 # Vector Store (choose one or install both if experimenting)

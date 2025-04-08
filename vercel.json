@@ -3,7 +3,13 @@
     "api/index.py": {
       "maxDuration": 30,
       "memory": 1024,
-      "includeFiles": "FirstDataandInfo.md"
+      "includeFiles": "FirstDataandInfo.md",
+      "excludeFiles": [
+        "**/onnxruntime-*.dist-info/**",
+        "**/onnxruntime/**",
+        "**/libsqlite3*.so*",
+        "**/sqlite3.*.dylib*"
+      ]
     }
   }
 } 
