@@ -4,12 +4,7 @@
       "maxDuration": 30,
       "memory": 1024,
       "includeFiles": "FirstDataandInfo.md",
-      "excludeFiles": [
-        "**/onnxruntime-*.dist-info/**",
-        "**/onnxruntime/**",
-        "**/libsqlite3*.so*",
-        "**/sqlite3.*.dylib*"
-      ]
+      "excludeFiles": "{**/onnxruntime-*.dist-info/**,**/onnxruntime/**,**/libsqlite3*.so*,**/sqlite3.*.dylib*}"
     }
   }
 } 
