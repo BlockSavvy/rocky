@@ -1,0 +1,21 @@
+fastapi
+uvicorn[standard]
+pydantic
+
+# Core Langchain & Google AI
+langchain
+langchain-google-genai
+
+# Community components (loaders, vector stores)
+langchain-community
+
+# Document Loading
+markdown
+unstructured
+
+# Vector Store (choose one or install both if experimenting)
+faiss-cpu
+# chromadb
+
+# Environment variables
+python-dotenv
