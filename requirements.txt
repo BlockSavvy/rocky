@@ -14,8 +14,8 @@ markdown
 unstructured
 
 # Vector Store (choose one or install both if experimenting)
-faiss-cpu
-# chromadb
+# faiss-cpu
+chromadb
 
 # Environment variables
 python-dotenv

@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 from langchain_google_genai import GoogleGenerativeAIEmbeddings, ChatGoogleGenerativeAI
 from langchain_community.document_loaders import UnstructuredMarkdownLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain_community.vectorstores import FAISS
+from langchain_community.vectorstores import Chroma # Added Chroma import
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import ChatPromptTemplate
 from langchain.chains import create_retrieval_chain
@@ -49,7 +49,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# --- RAG Pipeline Setup (Executed on startup) ---
+# --- RAG Pipeline Setup (Modified for Chroma) ---
 def setup_rag_pipeline():
     try:
         # 1. Load Document
@@ -73,14 +73,21 @@ def setup_rag_pipeline():
             raise ValueError("Document splitting resulted in zero chunks.")
         print(f"Document split into {len(splits)} chunks.")
 
-        # 3. Create Embeddings
+        # 3. Define Embedding Function (don't need to create separate object for Chroma `from_documents`)
         embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key=google_api_key)
-        print("Embeddings model initialized.")
+        print("Embeddings function defined.")
 
-        # 4. Create Vector Store
-        print("Creating FAISS vector store...")
-        vectorstore = FAISS.from_documents(splits, embeddings)
-        print("FAISS vector store created.")
+        # 4. Create Chroma Vector Store (In-Memory for Serverless)
+        # Chroma can create embeddings internally using the provided function
+        # For serverless, use an in-memory client; persistent path not suitable.
+        print("Creating Chroma vector store (in-memory)...")
+        vectorstore = Chroma.from_documents(
+            documents=splits, 
+            embedding=embeddings, 
+            # persist_directory=None # Explicitly ensure in-memory for serverless
+            collection_metadata={"hnsw:space": "cosine"} # Optional: Specify distance metric if needed
+        )
+        print("Chroma vector store created.")
 
         # 5. Create Retriever
         retriever = vectorstore.as_retriever(search_kwargs={'k': 5}) # Retrieve top 5 relevant chunks
@@ -116,6 +123,7 @@ def setup_rag_pipeline():
 
     except Exception as e:
         print(f"Error during RAG pipeline setup: {e}")
+        # Raise specific error to help Vercel debugging if needed
         raise RuntimeError(f"Failed to initialize RAG pipeline: {e}")
 
 rag_chain = setup_rag_pipeline() # Initialize the chain when the app starts
