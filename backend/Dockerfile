@@ -22,14 +22,19 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy the rest of the backend application code into the container
 COPY . .
 
-# Make port available (Render uses $PORT, but EXPOSE is documentation)
+# Make the entrypoint script executable (redundant if done locally, but safe)
+RUN chmod +x /app/entrypoint.sh
+
+# Expose port (informational)
 EXPOSE 8000 
-# EXPOSE 10000 # Can add this too if desired, but EXPOSE is informational
+EXPOSE 10000
 
-# Define HOST env var
+# Define HOST env var (used by entrypoint)
 ENV HOST=0.0.0.0 
-# REMOVED default PORT env var - rely on Render's provided PORT
-# ENV PORT=8000
+# Removed ENV PORT, entrypoint will use Render's $PORT
 
-# Run main.py using the HOST and PORT environment variables
-CMD ["uvicorn", "main:app", "--host", "$HOST", "--port", "$PORT"] 
+# Use the entrypoint script to start the application
+ENTRYPOINT ["/app/entrypoint.sh"]
+
+# Remove the previous CMD instruction
+# CMD ["uvicorn", "main:app", "--host", "$HOST", "--port", "$PORT"] 
