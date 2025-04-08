@@ -11,7 +11,7 @@ langchain-community
 
 # Document Loading
 markdown
-unstructured
+# unstructured # Removed - too large for serverless
 
 # Vector Store (choose one or install both if experimenting)
 # faiss-cpu

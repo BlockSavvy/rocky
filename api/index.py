@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 
 # Langchain Imports
 from langchain_google_genai import GoogleGenerativeAIEmbeddings, ChatGoogleGenerativeAI
-from langchain_community.document_loaders import UnstructuredMarkdownLoader
+from langchain_core.documents import Document # Added Document import
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import Chroma # Added Chroma import
 from langchain.chains.combine_documents import create_stuff_documents_chain
@@ -49,56 +49,55 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# --- RAG Pipeline Setup (Modified for Chroma) ---
+# --- RAG Pipeline Setup (Modified for Direct Markdown Reading) ---
 def setup_rag_pipeline():
     try:
-        # 1. Load Document
-        # Use absolute path resolution based on the script's location
+        # 1. Load Document Content Directly
         script_dir = os.path.dirname(os.path.abspath(__file__))
         absolute_data_path = os.path.join(script_dir, DATA_PATH)
-        print(f"Loading document from absolute path: {absolute_data_path}")
+        print(f"Reading document content from: {absolute_data_path}")
         if not os.path.exists(absolute_data_path):
             raise FileNotFoundError(f"Initial resource file not found at resolved path: {absolute_data_path}")
+        
+        with open(absolute_data_path, 'r', encoding='utf-8') as f:
+            markdown_content = f.read()
             
-        loader = UnstructuredMarkdownLoader(absolute_data_path)
-        docs = loader.load()
-        if not docs:
-             raise ValueError(f"No documents loaded from {absolute_data_path}. Check the file path and content.")
-        print(f"Document loaded successfully. Number of pages/sections: {len(docs)}")
+        if not markdown_content:
+             raise ValueError(f"No content found in {absolute_data_path}.")
+             
+        # Wrap content in Langchain Document object
+        docs = [Document(page_content=markdown_content, metadata={"source": DATA_PATH})]
+        print(f"Document content loaded successfully. Characters: {len(markdown_content)}")
 
-        # 2. Split Document
+        # 2. Split Document (remains same, now operates on the single Document)
         text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=150)
         splits = text_splitter.split_documents(docs)
         if not splits:
             raise ValueError("Document splitting resulted in zero chunks.")
         print(f"Document split into {len(splits)} chunks.")
 
-        # 3. Define Embedding Function (don't need to create separate object for Chroma `from_documents`)
+        # 3. Define Embedding Function (remains same)
         embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key=google_api_key)
         print("Embeddings function defined.")
 
-        # 4. Create Chroma Vector Store (In-Memory for Serverless)
-        # Chroma can create embeddings internally using the provided function
-        # For serverless, use an in-memory client; persistent path not suitable.
+        # 4. Create Chroma Vector Store (remains same)
         print("Creating Chroma vector store (in-memory)...")
         vectorstore = Chroma.from_documents(
             documents=splits, 
-            embedding=embeddings, 
-            # persist_directory=None # Explicitly ensure in-memory for serverless
-            collection_metadata={"hnsw:space": "cosine"} # Optional: Specify distance metric if needed
+            embedding=embeddings,
+            collection_metadata={"hnsw:space": "cosine"}
         )
         print("Chroma vector store created.")
 
-        # 5. Create Retriever
-        retriever = vectorstore.as_retriever(search_kwargs={'k': 5}) # Retrieve top 5 relevant chunks
+        # 5. Create Retriever (remains same)
+        retriever = vectorstore.as_retriever(search_kwargs={'k': 5})
         print("Retriever created.")
 
-        # 6. Setup LLM
+        # 6. Setup LLM (remains same)
         llm = ChatGoogleGenerativeAI(model="gemini-1.5-pro-latest", google_api_key=google_api_key, temperature=0.7)
         print("Gemini chat model initialized.")
 
-        # 7. Create Prompt Template
-        # This prompt encourages using context but allows general knowledge
+        # 7. Create Prompt Template (remains same)
         prompt = ChatPromptTemplate.from_template("""
         You are a knowledgeable and empathetic AI assistant for rehabilitation, specifically focused on helping a user recover from a C4/C5 nerve injury affecting their bicep.
         Use the following retrieved context to answer the user's question. Synthesize the information and provide a helpful, supportive, and clear response.
@@ -115,7 +114,7 @@ def setup_rag_pipeline():
         )
         print("Prompt template created.")
 
-        # 8. Create Chains
+        # 8. Create Chains (remains same)
         document_chain = create_stuff_documents_chain(llm, prompt)
         retrieval_chain = create_retrieval_chain(retriever, document_chain)
         print("RAG retrieval chain created successfully.")
@@ -123,10 +122,9 @@ def setup_rag_pipeline():
 
     except Exception as e:
         print(f"Error during RAG pipeline setup: {e}")
-        # Raise specific error to help Vercel debugging if needed
         raise RuntimeError(f"Failed to initialize RAG pipeline: {e}")
 
-rag_chain = setup_rag_pipeline() # Initialize the chain when the app starts
+rag_chain = setup_rag_pipeline()
 
 # --- Data Models for Rehab Plan & Progress --- NEW SECTION
 
@@ -189,10 +187,10 @@ def load_initial_resources():
     try:
         script_dir = os.path.dirname(os.path.abspath(__file__))
         absolute_data_path = os.path.join(script_dir, DATA_PATH)
-        print(f"Loading initial resource from absolute path: {absolute_data_path}")
+        print(f"Loading initial resource content from: {absolute_data_path}")
         if not os.path.exists(absolute_data_path):
              print(f"Warning: Initial resource file {absolute_data_path} not found. Skipping.")
-             return # Exit if file not found
+             return
              
         with open(absolute_data_path, 'r', encoding='utf-8') as f:
             content = f.read()
@@ -200,7 +198,7 @@ def load_initial_resources():
             initial_resource = Resource(
                 title="Initial Research: Restoring Bicep Function",
                 content=content,
-                source_url=None, # Could add file path if needed
+                source_url=None, 
                 type="research_summary"
             )
             resources_store.append(initial_resource)
@@ -208,9 +206,9 @@ def load_initial_resources():
         else:
             print(f"Warning: Initial resource file {absolute_data_path} is empty.")
     except Exception as e:
-        print(f"Error loading initial resource from {absolute_data_path}: {e}")
+        print(f"Error loading initial resource content: {e}")
 
-load_initial_resources() # Load resources when the app starts
+load_initial_resources()
 
 # --- API Endpoints ---
 class ChatMessage(BaseModel):
