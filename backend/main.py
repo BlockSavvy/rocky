@@ -35,8 +35,9 @@ app = FastAPI(title="Rocky Rehab AI Assistant Backend") # Removed - Serverless s
 origins = [
     "http://localhost:3000",      # Local Next.js dev
     "http://127.0.0.1:3000",
-    # Add Vercel deployment URL(s) later
-    # e.g., "https://rocky-frontend-*.vercel.app", "https://your-prod-domain.com"
+    "https://rocky-kappa.vercel.app", # Add your Vercel frontend domain
+    # Add other Vercel preview URLs if needed, e.g.:
+    # "https://rocky-*.vercel.app", 
     # Add Render backend URL if needed for direct access (usually not needed if frontend proxies)
 ]
 app.add_middleware(
