@@ -22,6 +22,10 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy the rest of the backend application code into the container
 COPY . .
 
+# ---- Debug: List files in /app ----
+RUN ls -la /app
+# ---- End Debug ----
+
 # Make the entrypoint script executable (redundant if done locally, but safe)
 RUN chmod +x /app/entrypoint.sh
 
