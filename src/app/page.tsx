@@ -23,7 +23,7 @@ import {
 
 // Use environment variable for API base URL
 // Fallback to local Next.js API routes if variable not set
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || '/api';
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || 'https://rocky-backend.onrender.com/api';
 console.log(`Using API Base URL: ${API_BASE_URL}`);
 
 export default function Home() {
@@ -211,12 +211,12 @@ export default function Home() {
 
   // --- Main Render --- 
   return (
-    <div className="flex flex-col h-full bg-background font-sans text-foreground overflow-hidden"> 
+    <div className="flex flex-col h-full bg-background font-sans text-foreground overflow-hidden rounded-xl shadow-lg border border-border/30"> 
       <TooltipProvider>
         <Toaster position="top-center" richColors />
 
         {/* Main Header with Branding and Chat Toggle */}
-        <header className="border-b border-border p-3 shadow-md flex items-center justify-between relative z-10 backdrop-blur-sm bg-card/80">
+        <header className="border-b border-border p-3 md:p-4 shadow-md flex items-center justify-between relative z-10 backdrop-blur-sm bg-card/80">
           <div className="flex items-center space-x-3">
             <div className="flex h-9 w-9 items-center justify-center rounded-full bg-primary/10 text-primary">
               <Activity className="h-5 w-5" />
@@ -259,7 +259,7 @@ export default function Home() {
             >
               {/* Navigation Tabs */}
               <div className="px-4 pt-4">
-                <TabsList className="grid grid-cols-4 max-w-[600px] p-1 bg-muted/50 backdrop-blur-sm">
+                <TabsList className="grid grid-cols-4 w-full max-w-[600px] mx-auto p-1 bg-muted/50 backdrop-blur-sm">
                   <TabsTrigger value="home" className="flex items-center gap-1.5 data-[state=active]:bg-background data-[state=active]:text-primary data-[state=active]:shadow-md">
                     <HomeIcon className="h-4 w-4" />
                     <span>Home</span>
@@ -283,7 +283,7 @@ export default function Home() {
               </div>
               
               {/* Tab Contents - Inside a scrollable container */}
-              <div className="p-4 flex-1 overflow-auto">
+              <div className="p-3 md:p-4 flex-1 overflow-auto">
                 <TabsContent value="home" className="h-full flex flex-col space-y-4 mt-0 data-[state=inactive]:hidden">
                   {/* Rehab Plan Section */}
                   <div className="flex-1 flex flex-col border border-border rounded-xl shadow-md bg-card overflow-hidden"> 
