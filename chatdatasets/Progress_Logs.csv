@@ -1,0 +1,91 @@
+id,exercise_id,date,completed_sets,completed_reps,pain_level,difficulty_level,milestone_flags,alert_level,notes
+log-ba637c1e,ex-arm-raises,2023-12-01T00:00:00Z,2,4,8,6,[],high-pain,Slight improvement noticed.
+log-72b6c444,ex-biceps-curl,2023-12-02T00:00:00Z,1,6,1,10,[],normal,Continued practice.
+log-cb9d308a,ex-arm-raises,2023-12-03T00:00:00Z,2,8,8,3,[],high-pain,Continued practice.
+log-bc5aadcd,ex-biceps-curl,2023-12-04T00:00:00Z,1,4,3,7,[],normal,Continued practice.
+log-7bd24bfa,ex-arm-raises,2023-12-05T00:00:00Z,2,8,9,6,[],high-pain,Continued practice.
+log-7951d078,ex-biceps-curl,2023-12-06T00:00:00Z,1,6,2,8,[],normal,Continued practice.
+log-3b6f31d7,ex-arm-raises,2023-12-07T00:00:00Z,1,4,3,9,[],normal,Continued practice.
+log-c31cbf43,ex-biceps-curl,2023-12-08T00:00:00Z,1,6,3,4,[],normal,Slight improvement noticed.
+log-96d58a33,ex-arm-raises,2023-12-09T00:00:00Z,2,9,8,5,[],high-pain,Continued practice.
+log-954a2637,ex-biceps-curl,2023-12-10T00:00:00Z,1,8,1,9,[],normal,Continued practice.
+log-7fa6715e,ex-arm-raises,2023-12-11T00:00:00Z,1,10,4,3,[],normal,Continued practice.
+log-b208b4cf,ex-biceps-curl,2023-12-12T00:00:00Z,1,8,1,10,[],normal,Continued practice.
+log-9f31f984,ex-arm-raises,2023-12-13T00:00:00Z,2,10,1,6,[],normal,Continued practice.
+log-7148ca9e,ex-biceps-curl,2023-12-14T00:00:00Z,2,4,5,7,[],normal,Continued practice.
+log-3512ba95,ex-arm-raises,2023-12-15T00:00:00Z,1,9,9,5,['milestone:improvement'],high-pain,Slight improvement noticed.
+log-3970e87f,ex-biceps-curl,2023-12-16T00:00:00Z,1,7,4,5,[],normal,Continued practice.
+log-ffc5bc16,ex-arm-raises,2023-12-17T00:00:00Z,3,4,4,8,[],normal,Continued practice.
+log-7e9bd660,ex-biceps-curl,2023-12-18T00:00:00Z,2,4,8,2,[],high-pain,Continued practice.
+log-876156a0,ex-arm-raises,2023-12-19T00:00:00Z,2,10,2,9,[],normal,Continued practice.
+log-c370dea5,ex-biceps-curl,2023-12-20T00:00:00Z,2,6,5,8,[],normal,Continued practice.
+log-b8da6cc7,ex-arm-raises,2023-12-21T00:00:00Z,3,6,3,10,[],normal,Continued practice.
+log-5d1a01c5,ex-biceps-curl,2023-12-22T00:00:00Z,1,5,4,2,[],normal,Slight improvement noticed.
+log-823b117f,ex-arm-raises,2023-12-23T00:00:00Z,3,10,6,5,[],normal,Continued practice.
+log-224185e8,ex-biceps-curl,2023-12-24T00:00:00Z,1,5,9,4,[],high-pain,Continued practice.
+log-e82ce784,ex-arm-raises,2023-12-25T00:00:00Z,3,5,3,10,[],normal,Continued practice.
+log-2f1840b3,ex-biceps-curl,2023-12-26T00:00:00Z,2,5,9,10,[],high-pain,Continued practice.
+log-46f352c2,ex-arm-raises,2023-12-27T00:00:00Z,3,4,3,2,[],normal,Continued practice.
+log-7e8c6e01,ex-biceps-curl,2023-12-28T00:00:00Z,2,5,1,2,[],normal,Continued practice.
+log-c3efc33f,ex-arm-raises,2023-12-29T00:00:00Z,3,10,4,4,['milestone:improvement'],normal,Slight improvement noticed.
+log-029bdfa9,ex-biceps-curl,2023-12-30T00:00:00Z,1,4,7,7,[],normal,Continued practice.
+log-69ef9d7b,ex-arm-raises,2023-12-31T00:00:00Z,2,8,1,7,[],normal,Continued practice.
+log-f7632e23,ex-biceps-curl,2024-01-01T00:00:00Z,2,8,6,4,[],normal,Continued practice.
+log-6b3f6992,ex-arm-raises,2024-01-02T00:00:00Z,2,9,4,5,[],normal,Continued practice.
+log-3673044e,ex-biceps-curl,2024-01-03T00:00:00Z,1,4,4,9,[],normal,Continued practice.
+log-7f3b61af,ex-arm-raises,2024-01-04T00:00:00Z,1,7,3,8,[],normal,Continued practice.
+log-a990cc39,ex-biceps-curl,2024-01-05T00:00:00Z,1,5,4,3,[],normal,Slight improvement noticed.
+log-44eaa475,ex-arm-raises,2024-01-06T00:00:00Z,1,5,5,10,[],normal,Continued practice.
+log-3527c1db,ex-biceps-curl,2024-01-07T00:00:00Z,2,4,8,7,[],high-pain,Continued practice.
+log-f90273ee,ex-arm-raises,2024-01-08T00:00:00Z,2,9,9,7,[],high-pain,Continued practice.
+log-c926e8e7,ex-biceps-curl,2024-01-09T00:00:00Z,1,7,2,4,[],normal,Continued practice.
+log-8718e485,ex-arm-raises,2024-01-10T00:00:00Z,2,4,5,5,[],normal,Continued practice.
+log-ca2641bd,ex-biceps-curl,2024-01-11T00:00:00Z,1,8,8,3,[],high-pain,Continued practice.
+log-39abf1a5,ex-arm-raises,2024-01-12T00:00:00Z,2,5,4,10,[],normal,Slight improvement noticed.
+log-473030a9,ex-biceps-curl,2024-01-13T00:00:00Z,2,7,5,2,[],normal,Continued practice.
+log-439a844d,ex-arm-raises,2024-01-14T00:00:00Z,3,9,9,7,[],high-pain,Continued practice.
+log-5b43096a,ex-biceps-curl,2024-01-15T00:00:00Z,1,8,8,5,[],high-pain,Continued practice.
+log-5f48eaa4,ex-arm-raises,2024-01-16T00:00:00Z,2,6,6,2,[],normal,Continued practice.
+log-e5324cf1,ex-biceps-curl,2024-01-17T00:00:00Z,2,7,2,9,[],normal,Continued practice.
+log-1e0dca0c,ex-arm-raises,2024-01-18T00:00:00Z,1,9,5,3,[],normal,Continued practice.
+log-ce72ed26,ex-biceps-curl,2024-01-19T00:00:00Z,2,5,2,6,[],normal,Slight improvement noticed.
+log-37a79251,ex-arm-raises,2024-01-20T00:00:00Z,2,9,6,6,[],normal,Continued practice.
+log-b208f9bf,ex-biceps-curl,2024-01-21T00:00:00Z,2,6,7,5,[],normal,Continued practice.
+log-a4647a4f,ex-arm-raises,2024-01-22T00:00:00Z,3,10,5,2,[],normal,Continued practice.
+log-78e52af2,ex-biceps-curl,2024-01-23T00:00:00Z,2,5,3,4,[],normal,Continued practice.
+log-f910ef56,ex-arm-raises,2024-01-24T00:00:00Z,1,7,7,8,[],normal,Continued practice.
+log-f121f2a7,ex-biceps-curl,2024-01-25T00:00:00Z,1,8,9,6,[],high-pain,Continued practice.
+log-879ee178,ex-arm-raises,2024-01-26T00:00:00Z,1,9,7,2,[],normal,Slight improvement noticed.
+log-068aceae,ex-biceps-curl,2024-01-27T00:00:00Z,1,5,6,5,[],normal,Continued practice.
+log-3fea2f0c,ex-arm-raises,2024-01-28T00:00:00Z,3,8,2,3,[],normal,Continued practice.
+log-3dd6312a,ex-biceps-curl,2024-01-29T00:00:00Z,2,5,7,9,[],normal,Continued practice.
+log-117ac990,ex-arm-raises,2024-01-30T00:00:00Z,3,9,4,2,['milestone:improvement'],normal,Continued practice.
+log-d61cd229,ex-biceps-curl,2024-01-31T00:00:00Z,2,7,2,10,[],normal,Continued practice.
+log-c3d0277c,ex-arm-raises,2024-02-01T00:00:00Z,3,10,7,5,[],normal,Continued practice.
+log-33d7d2b1,ex-biceps-curl,2024-02-02T00:00:00Z,1,6,1,10,[],normal,Slight improvement noticed.
+log-005745a1,ex-arm-raises,2024-02-03T00:00:00Z,3,10,7,9,[],normal,Continued practice.
+log-4fa3746d,ex-biceps-curl,2024-02-04T00:00:00Z,1,6,2,2,[],normal,Continued practice.
+log-ec008fa1,ex-arm-raises,2024-02-05T00:00:00Z,2,5,5,5,[],normal,Continued practice.
+log-cac24b04,ex-biceps-curl,2024-02-06T00:00:00Z,1,5,4,5,[],normal,Continued practice.
+log-31209272,ex-arm-raises,2024-02-07T00:00:00Z,1,10,3,4,[],normal,Continued practice.
+log-71c215f0,ex-biceps-curl,2024-02-08T00:00:00Z,1,5,9,4,[],high-pain,Continued practice.
+log-5d28e5f2,ex-arm-raises,2024-02-09T00:00:00Z,1,10,7,10,[],normal,Slight improvement noticed.
+log-99e7ea97,ex-biceps-curl,2024-02-10T00:00:00Z,1,6,9,6,[],high-pain,Continued practice.
+log-3112e98d,ex-arm-raises,2024-02-11T00:00:00Z,3,8,8,10,[],high-pain,Continued practice.
+log-f6de06c4,ex-biceps-curl,2024-02-12T00:00:00Z,2,7,5,9,[],normal,Continued practice.
+log-dd74082e,ex-arm-raises,2024-02-13T00:00:00Z,1,8,7,9,[],normal,Continued practice.
+log-7b5b9b78,ex-biceps-curl,2024-02-14T00:00:00Z,2,8,5,10,[],normal,Continued practice.
+log-90039a96,ex-arm-raises,2024-02-15T00:00:00Z,3,9,3,2,[],normal,Continued practice.
+log-b21efe94,ex-biceps-curl,2024-02-16T00:00:00Z,1,7,1,3,[],normal,Slight improvement noticed.
+log-4856ec64,ex-arm-raises,2024-02-17T00:00:00Z,1,4,6,3,[],normal,Continued practice.
+log-976de964,ex-biceps-curl,2024-02-18T00:00:00Z,2,7,8,9,[],high-pain,Continued practice.
+log-cafb21cb,ex-arm-raises,2024-02-19T00:00:00Z,2,8,5,8,[],normal,Continued practice.
+log-2420d0cc,ex-biceps-curl,2024-02-20T00:00:00Z,1,8,6,7,[],normal,Continued practice.
+log-6285adcf,ex-arm-raises,2024-02-21T00:00:00Z,3,4,9,7,[],high-pain,Continued practice.
+log-45c52123,ex-biceps-curl,2024-02-22T00:00:00Z,2,4,5,2,[],normal,Continued practice.
+log-fff5d889,ex-arm-raises,2024-02-23T00:00:00Z,3,5,6,5,[],normal,Slight improvement noticed.
+log-05432568,ex-biceps-curl,2024-02-24T00:00:00Z,2,6,7,9,[],normal,Continued practice.
+log-980cedda,ex-arm-raises,2024-02-25T00:00:00Z,2,10,6,9,[],normal,Continued practice.
+log-4f1cbe1d,ex-biceps-curl,2024-02-26T00:00:00Z,1,4,9,4,[],high-pain,Continued practice.
+log-fbf1fe11,ex-arm-raises,2024-02-27T00:00:00Z,2,6,1,2,[],normal,Continued practice.
+log-5c621b0d,ex-biceps-curl,2024-02-28T00:00:00Z,2,6,3,9,[],normal,Continued practice.

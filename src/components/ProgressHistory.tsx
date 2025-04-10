@@ -1,6 +1,8 @@
 import React from 'react';
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
 import { ScrollArea } from "@/components/ui/scroll-area";
+import { Badge } from "@/components/ui/badge";
+import { Separator } from "@/components/ui/separator";
 
 // Define interface matching backend Pydantic ProgressEntry model
 interface ProgressEntry {
@@ -69,33 +71,36 @@ const ProgressHistory: React.FC<ProgressHistoryProps> = ({
   }
 
   return (
-    <Card className="mt-6 flex flex-col">
-      <CardHeader>
-        <CardTitle className="text-lg">Progress History</CardTitle>
+    <Card className="flex flex-col h-full border-0 shadow-none">
+      <CardHeader className="pt-0 px-1 pb-3">
+        <CardTitle className="text-lg">Progress Log</CardTitle>
       </CardHeader>
-      <CardContent className="flex-grow overflow-hidden">
+      <CardContent className="flex-grow overflow-hidden p-0">
         {progressLog.length === 0 ? (
-          <p className="text-sm text-muted-foreground">No progress logged yet.</p>
+          <p className="text-sm text-muted-foreground px-1">No progress logged yet.</p>
         ) : (
-          <ScrollArea className="h-48 pr-3">
-            <ul className="space-y-3">
-              {[...progressLog].reverse().map((entry) => (
-                <li key={entry.id} className="p-3 border border-border rounded-md bg-background text-xs hover:bg-accent">
-                  <p className="font-medium text-foreground mb-1">
-                    {getExerciseName(entry.exercise_id)}
-                  </p>
-                  <p className="text-xs text-muted-foreground mb-2">
-                    {new Date(entry.date).toLocaleString()} 
-                  </p>
-                  <div className="grid grid-cols-2 gap-x-3 gap-y-1 text-muted-foreground">
-                    {entry.completed_sets !== null && <span>Sets: {entry.completed_sets}</span>}
-                    {entry.completed_reps !== null && <span>Reps: {entry.completed_reps}</span>}
-                    {entry.duration_seconds !== null && <span>Duration: {entry.duration_seconds}s</span>}
-                    {entry.pain_level !== null && <span>Pain: {entry.pain_level}/10</span>}
-                    {entry.difficulty_level !== null && <span>Difficulty: {entry.difficulty_level}/10</span>}
-                  </div>
-                  {entry.notes && <p className="text-foreground mt-2 pt-2 border-t border-border">Notes: {entry.notes}</p>}
-                </li>
+          <ScrollArea className="h-full pr-1">
+            <ul className="space-y-2">
+              {[...progressLog].reverse().map((entry, index) => (
+                <React.Fragment key={entry.id}>
+                    <li className="p-3 rounded-md bg-muted/50 text-xs">
+                      <p className="font-medium text-foreground mb-1 text-sm">
+                        {getExerciseName(entry.exercise_id)}
+                      </p>
+                      <p className="text-xs text-muted-foreground mb-2">
+                        {new Date(entry.date).toLocaleString()} 
+                      </p>
+                      <div className="grid grid-cols-2 gap-x-3 gap-y-1 text-muted-foreground mb-2">
+                        {entry.completed_sets !== null && <span>Sets: <Badge variant="secondary">{entry.completed_sets}</Badge></span>}
+                        {entry.completed_reps !== null && <span>Reps: <Badge variant="secondary">{entry.completed_reps}</Badge></span>}
+                        {entry.duration_seconds !== null && <span>Duration: <Badge variant="secondary">{entry.duration_seconds}s</Badge></span>}
+                        {entry.pain_level !== null && <span>Pain: <Badge variant={(entry.pain_level ?? 0) > 5 ? "destructive" : "outline"}>{entry.pain_level}/10</Badge></span>}
+                        {entry.difficulty_level !== null && <span>Difficulty: <Badge variant="outline">{entry.difficulty_level}/10</Badge></span>}
+                      </div>
+                      {entry.notes && <p className="text-foreground text-xs mt-2 pt-2 border-t border-border/50">Notes: {entry.notes}</p>}
+                    </li>
+                    {index < progressLog.length - 1 && <Separator className="my-1" />}
+                 </React.Fragment>
               ))}
             </ul>
           </ScrollArea>

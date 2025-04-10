@@ -1,0 +1,2852 @@
+[
+  {
+    "id": "642b094f-0e13-497f-a3dc-e4dc5358b870",
+    "exercise_id": "ex-001",
+    "date": "2023-12-01T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 7,
+    "difficulty_level": 8,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "992c73e7-eb08-4867-9114-b9511352d2bb",
+    "exercise_id": "ex-002",
+    "date": "2023-12-01T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 8,
+    "difficulty_level": 9,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "f8a6e911-f0b4-42b7-88a0-c6db3149e41d",
+    "exercise_id": "ex-003",
+    "date": "2023-12-01T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 8,
+    "difficulty_level": 9,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "86b70534-2f2f-4525-810d-150e2ee5a33b",
+    "exercise_id": "ex-001",
+    "date": "2023-12-02T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 6,
+    "difficulty_level": 7,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "8d6335fb-4f18-4b40-8e9f-4328ffdd80b4",
+    "exercise_id": "ex-002",
+    "date": "2023-12-02T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 7,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "37b879e3-7c27-4498-aaf7-5ceddcbeb379",
+    "exercise_id": "ex-003",
+    "date": "2023-12-02T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 6,
+    "difficulty_level": 7,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "3e7d6d7d-c68a-4369-b6dd-a86b39bf80fe",
+    "exercise_id": "ex-001",
+    "date": "2023-12-03T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 6,
+    "difficulty_level": 8,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "4b9d186d-22bc-493e-845b-f24b6595b50e",
+    "exercise_id": "ex-002",
+    "date": "2023-12-03T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 7,
+    "difficulty_level": 7,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "21051abe-2e96-413c-a0bd-9fa0977d2dc9",
+    "exercise_id": "ex-003",
+    "date": "2023-12-03T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 6,
+    "difficulty_level": 8,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "c75f6dbe-7c6c-45b5-bcf2-a72c2ce47aef",
+    "exercise_id": "ex-001",
+    "date": "2023-12-04T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 6,
+    "difficulty_level": 8,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "2eb6eeae-24ae-4782-b44b-795c02dcfba6",
+    "exercise_id": "ex-002",
+    "date": "2023-12-04T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 9,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "897091a0-8a6f-45ef-a238-2ecfaff6b1e8",
+    "exercise_id": "ex-003",
+    "date": "2023-12-04T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 6,
+    "difficulty_level": 7,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "d5f89037-6f24-45d1-99a9-aeb5d2098e27",
+    "exercise_id": "ex-001",
+    "date": "2023-12-05T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 8,
+    "difficulty_level": 8,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "d7c376b6-496d-407c-a7ea-454ef697cbc6",
+    "exercise_id": "ex-002",
+    "date": "2023-12-05T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 7,
+    "difficulty_level": 9,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "040a794e-719c-4b9b-8709-3552c5958c3e",
+    "exercise_id": "ex-003",
+    "date": "2023-12-05T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 7,
+    "difficulty_level": 7,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "05841fa7-a1b7-49e5-bb2a-e784b5ed0d5d",
+    "exercise_id": "ex-001",
+    "date": "2023-12-06T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 8,
+    "difficulty_level": 7,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "098901f6-bb30-4482-856a-325b926f000c",
+    "exercise_id": "ex-002",
+    "date": "2023-12-06T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 8,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "5fbb26c8-eb51-4e17-b4f1-5673f460b65d",
+    "exercise_id": "ex-003",
+    "date": "2023-12-06T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 8,
+    "difficulty_level": 7,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "1bd9b332-d56c-49df-8148-b48b8135ab89",
+    "exercise_id": "ex-001",
+    "date": "2023-12-07T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 6,
+    "difficulty_level": 7,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "b056133b-bd59-4c69-b84d-f4ec1f426030",
+    "exercise_id": "ex-002",
+    "date": "2023-12-07T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 8,
+    "difficulty_level": 7,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "c8a76fbd-8b81-4bd4-ab67-5510292b8566",
+    "exercise_id": "ex-003",
+    "date": "2023-12-07T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 8,
+    "difficulty_level": 7,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "3aca402e-2b53-43d3-8b08-eee50e683353",
+    "exercise_id": "ex-001",
+    "date": "2023-12-08T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 7,
+    "difficulty_level": 7,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "40e12921-075b-45fd-9a8e-1c0183237bc6",
+    "exercise_id": "ex-002",
+    "date": "2023-12-08T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 7,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "eb7c43ff-b201-4a63-bef9-fdc6057cbf7b",
+    "exercise_id": "ex-003",
+    "date": "2023-12-08T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 6,
+    "difficulty_level": 8,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "fa1c8426-6890-4ddb-a4f0-f1a5a50d114b",
+    "exercise_id": "ex-001",
+    "date": "2023-12-09T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 6,
+    "difficulty_level": 8,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "1471f87b-db98-4627-8b37-6699de1d8a5a",
+    "exercise_id": "ex-002",
+    "date": "2023-12-09T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 9,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "3129bb43-9e5a-4205-94b6-11f90b6bdf7f",
+    "exercise_id": "ex-003",
+    "date": "2023-12-09T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 6,
+    "difficulty_level": 9,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "7cc9842c-b608-41f6-944a-d3b01d2f7440",
+    "exercise_id": "ex-001",
+    "date": "2023-12-10T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 6,
+    "difficulty_level": 7,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "884b4369-a962-4202-9a66-eeec7094d1bb",
+    "exercise_id": "ex-002",
+    "date": "2023-12-10T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 12,
+    "pain_level": 7,
+    "difficulty_level": 9,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "f4d82ba5-e53f-4752-ac32-50cdc1a4283c",
+    "exercise_id": "ex-003",
+    "date": "2023-12-10T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 8,
+    "difficulty_level": 7,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "a214d26b-4383-4b93-a0d5-8528ea1982a3",
+    "exercise_id": "ex-001",
+    "date": "2023-12-11T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 6,
+    "difficulty_level": 8,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "593d47f7-5c95-4d3a-acc7-b67526e99bd9",
+    "exercise_id": "ex-002",
+    "date": "2023-12-11T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 7,
+    "difficulty_level": 7,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "a3b73a5b-509a-4e04-babc-0e33f390460c",
+    "exercise_id": "ex-003",
+    "date": "2023-12-11T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 7,
+    "difficulty_level": 7,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "2d67f53e-7f2e-41cd-bf5b-0cd68aced2be",
+    "exercise_id": "ex-001",
+    "date": "2023-12-12T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 7,
+    "difficulty_level": 7,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "d1af7593-f838-4909-9098-a9e7cdfd8f5a",
+    "exercise_id": "ex-002",
+    "date": "2023-12-12T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 7,
+    "difficulty_level": 8,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "64decbb9-dc05-4a3d-9099-5c741e8ff6a2",
+    "exercise_id": "ex-003",
+    "date": "2023-12-12T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 8,
+    "difficulty_level": 7,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "6e9ad5b6-c20d-40f9-b996-9ce6d222df2a",
+    "exercise_id": "ex-001",
+    "date": "2023-12-13T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 7,
+    "difficulty_level": 7,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "efbc92ee-6721-4e0c-b103-59bb69c5c8e2",
+    "exercise_id": "ex-002",
+    "date": "2023-12-13T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 8,
+    "difficulty_level": 9,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "102307dc-1936-4ae1-a7fe-deca97570228",
+    "exercise_id": "ex-003",
+    "date": "2023-12-13T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 6,
+    "difficulty_level": 7,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "0e9b3abf-13ee-4d77-b9ac-dcac159972d5",
+    "exercise_id": "ex-001",
+    "date": "2023-12-14T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 6,
+    "difficulty_level": 9,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "f3f4c516-32d6-4881-8746-0a6c6cdb01fc",
+    "exercise_id": "ex-002",
+    "date": "2023-12-14T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 7,
+    "difficulty_level": 7,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "7787e481-00af-41d7-85db-08dbb91b6ca7",
+    "exercise_id": "ex-003",
+    "date": "2023-12-14T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 8,
+    "difficulty_level": 8,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "795ec127-02d8-48f0-9657-bf2dfb14cdf7",
+    "exercise_id": "ex-001",
+    "date": "2023-12-15T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 7,
+    "difficulty_level": 8,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "449e158f-062e-4117-b58c-c5bdfae10f64",
+    "exercise_id": "ex-002",
+    "date": "2023-12-15T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 12,
+    "pain_level": 8,
+    "difficulty_level": 7,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "21da8d67-ce3f-4325-9190-559436558d94",
+    "exercise_id": "ex-003",
+    "date": "2023-12-15T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 6,
+    "difficulty_level": 9,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "57a9c3f5-8a24-4254-b838-8b4de5938291",
+    "exercise_id": "ex-001",
+    "date": "2023-12-16T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 6,
+    "difficulty_level": 8,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "3427685d-37a8-4ce9-98eb-c3f46b31cb69",
+    "exercise_id": "ex-002",
+    "date": "2023-12-16T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 12,
+    "pain_level": 8,
+    "difficulty_level": 6,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "4d7db2b2-39f4-4144-8566-d4459f149d65",
+    "exercise_id": "ex-003",
+    "date": "2023-12-16T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 6,
+    "difficulty_level": 7,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "5b39a2ad-8ef5-4f30-b9b3-5ea0c8813651",
+    "exercise_id": "ex-001",
+    "date": "2023-12-17T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 8,
+    "difficulty_level": 7,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "5c91fe1f-caf0-4c1c-9169-bbefbe42d3a4",
+    "exercise_id": "ex-002",
+    "date": "2023-12-17T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 7,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "60ef2f7c-ec15-4706-bacc-1a34ef8b80a4",
+    "exercise_id": "ex-003",
+    "date": "2023-12-17T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 7,
+    "difficulty_level": 8,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "236b68c7-ef37-4a02-8c0e-2391e978f99c",
+    "exercise_id": "ex-001",
+    "date": "2023-12-18T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 8,
+    "difficulty_level": 7,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "141190a4-908f-403e-a04a-a6852fa6644a",
+    "exercise_id": "ex-002",
+    "date": "2023-12-18T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 8,
+    "difficulty_level": 8,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "9db26bc5-d775-4911-9b5a-755462bda1fe",
+    "exercise_id": "ex-003",
+    "date": "2023-12-18T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 7,
+    "difficulty_level": 6,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "cd473040-3b7a-4140-a3f9-69e006de8edf",
+    "exercise_id": "ex-001",
+    "date": "2023-12-19T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 8,
+    "difficulty_level": 8,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "0dc84e2c-6e23-4a8d-b3eb-3c77189b0a7e",
+    "exercise_id": "ex-002",
+    "date": "2023-12-19T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 8,
+    "difficulty_level": 6,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "ae500174-02f4-499d-9cdb-5baba74bf0dd",
+    "exercise_id": "ex-003",
+    "date": "2023-12-19T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 7,
+    "difficulty_level": 7,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "872c577a-9bb2-4e16-87ac-36d183116dec",
+    "exercise_id": "ex-001",
+    "date": "2023-12-20T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 7,
+    "difficulty_level": 8,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "78a2af83-fe5a-4def-b5e0-930107bca735",
+    "exercise_id": "ex-002",
+    "date": "2023-12-20T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 7,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "634520af-3a54-4a88-b6a2-0320ebb2b895",
+    "exercise_id": "ex-003",
+    "date": "2023-12-20T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 8,
+    "difficulty_level": 7,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "b32fa0f7-12f8-41cc-ac12-9810b4a7375b",
+    "exercise_id": "ex-001",
+    "date": "2023-12-21T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 6,
+    "difficulty_level": 8,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "2c31dda3-934f-44bc-8cbd-ef620a3be064",
+    "exercise_id": "ex-002",
+    "date": "2023-12-21T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 7,
+    "difficulty_level": 7,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "a9c7ccf4-3842-461f-b232-f2aafcbf0020",
+    "exercise_id": "ex-003",
+    "date": "2023-12-21T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 7,
+    "difficulty_level": 8,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "3a335b7c-3ebe-49ab-a5b0-8d6f7b763bc3",
+    "exercise_id": "ex-001",
+    "date": "2023-12-22T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 7,
+    "difficulty_level": 7,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "a9efe344-1c81-4ec0-868b-f8884e493e8b",
+    "exercise_id": "ex-002",
+    "date": "2023-12-22T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 7,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "e57588f6-6d1e-4d47-ba7f-01fd271dac9c",
+    "exercise_id": "ex-003",
+    "date": "2023-12-22T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 7,
+    "difficulty_level": 7,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "43e7a53d-815d-4b4c-b7a6-01fd73fc6b5d",
+    "exercise_id": "ex-001",
+    "date": "2023-12-23T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 7,
+    "difficulty_level": 7,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "ef834678-82fe-466f-9910-7460c2273184",
+    "exercise_id": "ex-002",
+    "date": "2023-12-23T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 7,
+    "difficulty_level": 8,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "56e45ee3-9f70-4b32-8f7a-7c838722489c",
+    "exercise_id": "ex-003",
+    "date": "2023-12-23T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 7,
+    "difficulty_level": 7,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "adf807b4-f07e-4de5-8e98-bc80c970eed8",
+    "exercise_id": "ex-001",
+    "date": "2023-12-24T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 5,
+    "difficulty_level": 7,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "6c0793cd-bf39-4eef-a53d-ae70ac14e885",
+    "exercise_id": "ex-002",
+    "date": "2023-12-24T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 8,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "8a365aed-fa11-4a93-8b70-ba55def6bcaa",
+    "exercise_id": "ex-003",
+    "date": "2023-12-24T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 5,
+    "difficulty_level": 8,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "eabcffc5-585a-4f91-9503-cf011565dca2",
+    "exercise_id": "ex-001",
+    "date": "2023-12-25T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 5,
+    "difficulty_level": 6,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "9826961a-166d-4df2-91ae-7e28a5515f8e",
+    "exercise_id": "ex-002",
+    "date": "2023-12-25T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 6,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "c18ae9dc-d98c-4399-8b85-ce419ee413a0",
+    "exercise_id": "ex-003",
+    "date": "2023-12-25T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 6,
+    "difficulty_level": 8,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "0477073f-af93-4b83-9308-7dd00f4bdbcc",
+    "exercise_id": "ex-001",
+    "date": "2023-12-26T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 6,
+    "difficulty_level": 6,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "2693d0fe-549f-4d69-8475-d660726cf516",
+    "exercise_id": "ex-002",
+    "date": "2023-12-26T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 7,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "fe50af15-6e1c-43ae-802e-dd32061a8c88",
+    "exercise_id": "ex-003",
+    "date": "2023-12-26T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 6,
+    "difficulty_level": 6,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "fcc939be-06c1-430e-9cb7-f19103392b83",
+    "exercise_id": "ex-001",
+    "date": "2023-12-27T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 6,
+    "difficulty_level": 7,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "2bbea9cd-a04d-4d15-8db1-f46a5bff5b74",
+    "exercise_id": "ex-002",
+    "date": "2023-12-27T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 7,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "21df0206-0c1e-4387-98e0-ab6020edc223",
+    "exercise_id": "ex-003",
+    "date": "2023-12-27T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 7,
+    "difficulty_level": 6,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "9a87849e-7cb6-4dd0-8946-f296095fa18d",
+    "exercise_id": "ex-001",
+    "date": "2023-12-28T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 5,
+    "difficulty_level": 6,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "97c77283-4593-4245-ae9a-288cef1ed261",
+    "exercise_id": "ex-002",
+    "date": "2023-12-28T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 12,
+    "pain_level": 7,
+    "difficulty_level": 6,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "e3a9a530-1479-4b14-8ac3-10f0bed4ecc6",
+    "exercise_id": "ex-003",
+    "date": "2023-12-28T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 6,
+    "difficulty_level": 8,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "10d3ba89-1488-4708-98a2-4bb097f3ac4e",
+    "exercise_id": "ex-001",
+    "date": "2023-12-29T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 6,
+    "difficulty_level": 8,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "482f6c93-8b77-4298-8aba-76c25f78f5b3",
+    "exercise_id": "ex-002",
+    "date": "2023-12-29T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 6,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "6ad9ef0b-152a-4916-9d6d-3a223ac5bac5",
+    "exercise_id": "ex-003",
+    "date": "2023-12-29T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 5,
+    "difficulty_level": 7,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "629dab53-a2ae-4412-b6b9-0ede3c9af4ab",
+    "exercise_id": "ex-001",
+    "date": "2023-12-30T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 7,
+    "difficulty_level": 6,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "60f6f6c8-7f8f-4c96-b411-ac594836ae6d",
+    "exercise_id": "ex-002",
+    "date": "2023-12-30T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 7,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "e9a53f00-53a0-4e9d-95c3-c132ed00891d",
+    "exercise_id": "ex-003",
+    "date": "2023-12-30T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 6,
+    "difficulty_level": 7,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "efdde4d8-53ee-4f27-8164-30b943a5434f",
+    "exercise_id": "ex-001",
+    "date": "2023-12-31T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 7,
+    "difficulty_level": 5,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "a77be674-aae8-4b7b-9a76-ccb9e0fcf83b",
+    "exercise_id": "ex-002",
+    "date": "2023-12-31T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 5,
+    "difficulty_level": 6,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "7282e558-13e9-4c7c-a157-d4c336e1b3c7",
+    "exercise_id": "ex-003",
+    "date": "2023-12-31T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 7,
+    "difficulty_level": 6,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "dd8cceeb-1a20-47ba-9a66-6cdb21b85979",
+    "exercise_id": "ex-001",
+    "date": "2024-01-01T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 7,
+    "difficulty_level": 7,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "3f2248eb-91c7-4ac5-9a9f-2f9d2caa8d40",
+    "exercise_id": "ex-002",
+    "date": "2024-01-01T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 5,
+    "difficulty_level": 7,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "0245c14f-95d0-440e-8154-3483dc30a8fc",
+    "exercise_id": "ex-003",
+    "date": "2024-01-01T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 6,
+    "difficulty_level": 6,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "bdf0dddd-0458-4e97-8a2a-be6184f3e4ba",
+    "exercise_id": "ex-001",
+    "date": "2024-01-02T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 6,
+    "difficulty_level": 6,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "ac89f598-5de9-448a-bb7e-3477f53391e2",
+    "exercise_id": "ex-002",
+    "date": "2024-01-02T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 7,
+    "difficulty_level": 6,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "54ea3e80-c941-495b-b249-c6afd5568c71",
+    "exercise_id": "ex-003",
+    "date": "2024-01-02T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 6,
+    "difficulty_level": 5,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "1d276341-4b7d-47a5-87c1-be807dbf616a",
+    "exercise_id": "ex-001",
+    "date": "2024-01-03T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 6,
+    "difficulty_level": 7,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "1aa25dad-cf54-413d-941d-d4e28e2d803a",
+    "exercise_id": "ex-002",
+    "date": "2024-01-03T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 7,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "1255c64d-7192-406b-89b6-b93768429ef2",
+    "exercise_id": "ex-003",
+    "date": "2024-01-03T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 5,
+    "difficulty_level": 6,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "8d9afae6-303c-49c8-9005-fb548b98e52c",
+    "exercise_id": "ex-001",
+    "date": "2024-01-04T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 5,
+    "difficulty_level": 6,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "37d56939-cb4f-4654-b2cb-3f575036e6cb",
+    "exercise_id": "ex-002",
+    "date": "2024-01-04T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 6,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "d6cfa78f-9538-4557-8109-f3de5814cd2e",
+    "exercise_id": "ex-003",
+    "date": "2024-01-04T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 7,
+    "difficulty_level": 7,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "f61d93a7-60ab-4879-8584-3615aabc0df7",
+    "exercise_id": "ex-001",
+    "date": "2024-01-05T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 6,
+    "difficulty_level": 5,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "03ca6d67-0d1f-4f34-8f90-14696be37c8f",
+    "exercise_id": "ex-002",
+    "date": "2024-01-05T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 6,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "8dae4d7e-6c7d-45c3-936c-9c66cbcb19c1",
+    "exercise_id": "ex-003",
+    "date": "2024-01-05T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 7,
+    "difficulty_level": 5,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "122b067f-425c-456b-a744-d4d6111ac2f9",
+    "exercise_id": "ex-001",
+    "date": "2024-01-06T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 7,
+    "difficulty_level": 5,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "45f3be58-eba6-47f7-92a6-98ddeefab888",
+    "exercise_id": "ex-002",
+    "date": "2024-01-06T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 5,
+    "difficulty_level": 6,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "d49d5fe9-a735-4915-965a-45e7eae5e9b3",
+    "exercise_id": "ex-003",
+    "date": "2024-01-06T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 6,
+    "difficulty_level": 6,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "318b8ee1-36c9-4ec9-bedb-68a15524912a",
+    "exercise_id": "ex-001",
+    "date": "2024-01-07T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 5,
+    "difficulty_level": 5,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "5fb7121f-6964-4831-9f59-5234314e48df",
+    "exercise_id": "ex-002",
+    "date": "2024-01-07T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 7,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "7c94b7a4-5d88-425c-84c3-317110070bd4",
+    "exercise_id": "ex-003",
+    "date": "2024-01-07T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 5,
+    "difficulty_level": 6,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "f1b0e4dc-138a-41de-a289-57721befb9aa",
+    "exercise_id": "ex-001",
+    "date": "2024-01-08T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 7,
+    "difficulty_level": 5,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "5b0839b9-8601-4911-af10-143b6785d2cc",
+    "exercise_id": "ex-002",
+    "date": "2024-01-08T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 5,
+    "difficulty_level": 6,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "e3462858-b333-44d7-bbb2-4717db5ee28d",
+    "exercise_id": "ex-003",
+    "date": "2024-01-08T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 7,
+    "difficulty_level": 6,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "efddd204-a6fe-4b03-b42b-302e011d3909",
+    "exercise_id": "ex-001",
+    "date": "2024-01-09T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 7,
+    "difficulty_level": 5,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "b4b9b972-bf10-4053-b7d4-05f88381e71d",
+    "exercise_id": "ex-002",
+    "date": "2024-01-09T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 6,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "596b3eb9-d278-430a-9563-f334fb8dd79b",
+    "exercise_id": "ex-003",
+    "date": "2024-01-09T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 7,
+    "difficulty_level": 6,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "32be740c-408d-413b-8f2f-b52dcb77a826",
+    "exercise_id": "ex-001",
+    "date": "2024-01-10T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 5,
+    "difficulty_level": 7,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "2abb2fa1-70d4-4c8d-9b1d-bb7684a7dbcd",
+    "exercise_id": "ex-002",
+    "date": "2024-01-10T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 4,
+    "difficulty_level": 7,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "68bedb52-87ae-4c6b-8587-9c39515ac186",
+    "exercise_id": "ex-003",
+    "date": "2024-01-10T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 5,
+    "difficulty_level": 5,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "50e0839c-801c-4689-b756-7ad2c0991eaa",
+    "exercise_id": "ex-001",
+    "date": "2024-01-11T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 4,
+    "difficulty_level": 5,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "8f5ff138-c59d-4202-a0da-339961121f9c",
+    "exercise_id": "ex-002",
+    "date": "2024-01-11T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 7,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "78f5beee-0202-4747-aa69-628d2ffd4c09",
+    "exercise_id": "ex-003",
+    "date": "2024-01-11T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 6,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "0ebd627d-706b-4649-8572-1f7500f12af7",
+    "exercise_id": "ex-001",
+    "date": "2024-01-12T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 4,
+    "difficulty_level": 6,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "b8a3c681-f47d-4662-b14a-0b2ee03d9b17",
+    "exercise_id": "ex-002",
+    "date": "2024-01-12T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 4,
+    "difficulty_level": 6,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "907cb5ed-b70c-4758-bab0-c32110720e9a",
+    "exercise_id": "ex-003",
+    "date": "2024-01-12T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 6,
+    "difficulty_level": 6,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "45eef6a7-cbee-4009-b41f-bbb2d56eaa7e",
+    "exercise_id": "ex-001",
+    "date": "2024-01-13T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 6,
+    "difficulty_level": 7,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "d17b8272-2360-425a-96b7-722cd475da80",
+    "exercise_id": "ex-002",
+    "date": "2024-01-13T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 5,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "fb2f2f7f-379a-42ab-a660-0b7b74ca250c",
+    "exercise_id": "ex-003",
+    "date": "2024-01-13T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 5,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "a8b27fcd-7a13-4094-8079-63ce992934cd",
+    "exercise_id": "ex-001",
+    "date": "2024-01-14T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 5,
+    "difficulty_level": 7,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "556b7bab-efe2-49ab-9349-c4cc235f59c2",
+    "exercise_id": "ex-002",
+    "date": "2024-01-14T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 5,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "b8abbc16-ec2e-47f6-94a7-9796649b9dcf",
+    "exercise_id": "ex-003",
+    "date": "2024-01-14T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 6,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "15269a27-a874-4f16-8110-e5a724400770",
+    "exercise_id": "ex-001",
+    "date": "2024-01-15T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 4,
+    "difficulty_level": 5,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "11ab6c8c-87f3-4d3e-8825-0cd5011563f4",
+    "exercise_id": "ex-002",
+    "date": "2024-01-15T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "a8b5d0a6-0e34-437f-899f-59e5c1d4a49a",
+    "exercise_id": "ex-003",
+    "date": "2024-01-15T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 6,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "80fb518c-a055-4d6a-aba6-c978930de1f8",
+    "exercise_id": "ex-001",
+    "date": "2024-01-16T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 5,
+    "difficulty_level": 6,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "4bf231eb-0f12-45a9-8754-acbb96ff6f93",
+    "exercise_id": "ex-002",
+    "date": "2024-01-16T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 4,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "a1febc35-0c3b-4722-b2ed-af78425a6074",
+    "exercise_id": "ex-003",
+    "date": "2024-01-16T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 6,
+    "difficulty_level": 5,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "61175e39-5f46-4c99-85b7-e4ceda6cb32d",
+    "exercise_id": "ex-001",
+    "date": "2024-01-17T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 5,
+    "difficulty_level": 5,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "b0cb03a1-f4dc-4fdc-ba18-9bf00ac108c0",
+    "exercise_id": "ex-002",
+    "date": "2024-01-17T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 5,
+    "difficulty_level": 6,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "13b0e881-401f-45f0-95c8-120e2e10c8ea",
+    "exercise_id": "ex-003",
+    "date": "2024-01-17T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 6,
+    "difficulty_level": 5,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "a4fa2a03-5f85-44ea-afb0-17b174b4a343",
+    "exercise_id": "ex-001",
+    "date": "2024-01-18T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 6,
+    "difficulty_level": 6,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "bceb00d5-2a03-49b2-ab2a-079a8732373f",
+    "exercise_id": "ex-002",
+    "date": "2024-01-18T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 5,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "156402a0-f1dd-456b-9d22-f9d1171217fb",
+    "exercise_id": "ex-003",
+    "date": "2024-01-18T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 5,
+    "difficulty_level": 5,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "330e4ebe-1b38-4bc6-a2c5-41875e29639a",
+    "exercise_id": "ex-001",
+    "date": "2024-01-19T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 4,
+    "difficulty_level": 5,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "68ff596f-66ee-4af6-bb9c-7f5fe398481a",
+    "exercise_id": "ex-002",
+    "date": "2024-01-19T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 12,
+    "pain_level": 5,
+    "difficulty_level": 6,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "0bc26a92-a77c-4590-8a59-07df0f6a0be1",
+    "exercise_id": "ex-003",
+    "date": "2024-01-19T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 6,
+    "difficulty_level": 6,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "e7d8e638-7d83-42e9-9fdf-c8db77d190a0",
+    "exercise_id": "ex-001",
+    "date": "2024-01-20T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 6,
+    "difficulty_level": 5,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "807723fa-3940-4e9e-8535-405891a564bc",
+    "exercise_id": "ex-002",
+    "date": "2024-01-20T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 5,
+    "difficulty_level": 6,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "23b3bf83-7dd8-48b1-aa67-3e8b9b808d10",
+    "exercise_id": "ex-003",
+    "date": "2024-01-20T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 6,
+    "difficulty_level": 6,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "8d11dd65-00b8-402e-a363-2d77d292ea43",
+    "exercise_id": "ex-001",
+    "date": "2024-01-21T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 6,
+    "difficulty_level": 5,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "73f349a9-b93f-4ac6-aecc-ba8f6d84bed6",
+    "exercise_id": "ex-002",
+    "date": "2024-01-21T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 4,
+    "difficulty_level": 6,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "5fc8c6c0-8e31-4535-b08d-1d07b27f30e3",
+    "exercise_id": "ex-003",
+    "date": "2024-01-21T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 5,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "36caf221-9499-4023-bcdc-56cafd100b0c",
+    "exercise_id": "ex-001",
+    "date": "2024-01-22T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 5,
+    "difficulty_level": 4,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "7dc03168-6596-4087-b6c9-e1dad6834d9f",
+    "exercise_id": "ex-002",
+    "date": "2024-01-22T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 5,
+    "difficulty_level": 6,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "5eb47266-acdc-49dd-9c6d-da84d0ae8b10",
+    "exercise_id": "ex-003",
+    "date": "2024-01-22T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 6,
+    "difficulty_level": 5,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "a5181c9c-30a4-41b9-8b16-8336a4767a62",
+    "exercise_id": "ex-001",
+    "date": "2024-01-23T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 6,
+    "difficulty_level": 5,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "43bdda1c-ad37-435d-9ee2-a10e62d916d6",
+    "exercise_id": "ex-002",
+    "date": "2024-01-23T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 6,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "9b0a875b-8ebc-4ceb-b068-5b253cba4bd2",
+    "exercise_id": "ex-003",
+    "date": "2024-01-23T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 6,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "b736541e-46cf-461a-8f8d-b8a508a06560",
+    "exercise_id": "ex-001",
+    "date": "2024-01-24T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 4,
+    "difficulty_level": 5,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "46752787-4d3a-4db3-a4ab-2ae35430f096",
+    "exercise_id": "ex-002",
+    "date": "2024-01-24T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "55b407ba-bdb9-41fb-ae3f-4398f449ef78",
+    "exercise_id": "ex-003",
+    "date": "2024-01-24T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "dfc3316a-2f65-4632-8eb6-1a643f78f3a8",
+    "exercise_id": "ex-001",
+    "date": "2024-01-25T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "c194411c-c38a-4540-80f2-6565fc7c2579",
+    "exercise_id": "ex-002",
+    "date": "2024-01-25T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 5,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "da13b148-0cbb-451f-b974-6d14c0cbb9a2",
+    "exercise_id": "ex-003",
+    "date": "2024-01-25T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 6,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "73743e3d-068f-4863-b2b6-85b1c1ca72bf",
+    "exercise_id": "ex-001",
+    "date": "2024-01-26T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 5,
+    "difficulty_level": 5,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "22744d94-ad43-41bf-88dc-032e7561f690",
+    "exercise_id": "ex-002",
+    "date": "2024-01-26T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 6,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "5a420497-cf26-48ba-bd54-cdac52262d81",
+    "exercise_id": "ex-003",
+    "date": "2024-01-26T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 6,
+    "difficulty_level": 5,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "9d87248a-cfae-496f-be73-e3e1004b8da3",
+    "exercise_id": "ex-001",
+    "date": "2024-01-27T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 6,
+    "difficulty_level": 5,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "194a64ca-e008-4e39-aab1-dcc232a75f08",
+    "exercise_id": "ex-002",
+    "date": "2024-01-27T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 4,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "cb246a5c-4e94-4438-92e8-16a8627f208a",
+    "exercise_id": "ex-003",
+    "date": "2024-01-27T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 5,
+    "difficulty_level": 4,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "6196d9fc-37f6-4a8f-9781-62bf78f2932b",
+    "exercise_id": "ex-001",
+    "date": "2024-01-28T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "46475e1a-4a49-45ed-ab05-20067af92d1e",
+    "exercise_id": "ex-002",
+    "date": "2024-01-28T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 6,
+    "difficulty_level": 5,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "f3a8a9b8-a9d9-4cd1-aa34-a77eac8a0633",
+    "exercise_id": "ex-003",
+    "date": "2024-01-28T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 5,
+    "difficulty_level": 4,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "283654c6-516f-4c06-92b3-1a9b32a1a37b",
+    "exercise_id": "ex-001",
+    "date": "2024-01-29T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "5d25e884-7de8-4375-ba24-91772084301e",
+    "exercise_id": "ex-002",
+    "date": "2024-01-29T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 4,
+    "difficulty_level": 6,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "ab99d9f0-809f-4a72-94ed-c2a4adacaf93",
+    "exercise_id": "ex-003",
+    "date": "2024-01-29T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 6,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "f5716f97-4fbc-4066-beae-a44b86931b5a",
+    "exercise_id": "ex-001",
+    "date": "2024-01-30T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 5,
+    "difficulty_level": 5,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "df85832c-b503-4dfc-892a-cd56afb3a083",
+    "exercise_id": "ex-002",
+    "date": "2024-01-30T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 12,
+    "pain_level": 5,
+    "difficulty_level": 3,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "8d252546-6682-47a6-b07b-612efcfb4a7b",
+    "exercise_id": "ex-003",
+    "date": "2024-01-30T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 4,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "cd843244-3b8c-4ff9-afb2-e11aa0616bfc",
+    "exercise_id": "ex-001",
+    "date": "2024-01-31T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "a56fcbb4-d6eb-40e8-a77e-66806894286d",
+    "exercise_id": "ex-002",
+    "date": "2024-01-31T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 4,
+    "difficulty_level": 3,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "789c2a4f-622d-420a-b5f8-63b677847d45",
+    "exercise_id": "ex-003",
+    "date": "2024-01-31T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 4,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "4409bbfe-78bb-456a-a33b-015f219cf321",
+    "exercise_id": "ex-001",
+    "date": "2024-02-01T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 4,
+    "difficulty_level": 5,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "75fd1f61-d9ea-46ac-acfa-b4e2dbf53581",
+    "exercise_id": "ex-002",
+    "date": "2024-02-01T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 5,
+    "difficulty_level": 3,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "7f6e7fa9-8157-49c0-aae0-8ae88db26b4e",
+    "exercise_id": "ex-003",
+    "date": "2024-02-01T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 5,
+    "difficulty_level": 3,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "c0e337ca-85ce-4e28-b718-9a5ca1e76758",
+    "exercise_id": "ex-001",
+    "date": "2024-02-02T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 5,
+    "difficulty_level": 3,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "e6cf4549-049d-4da1-bc36-16714b81614d",
+    "exercise_id": "ex-002",
+    "date": "2024-02-02T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 3,
+    "difficulty_level": 4,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "9fcf3fbd-ab44-419e-aa37-1154fb89f4c0",
+    "exercise_id": "ex-003",
+    "date": "2024-02-02T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "27aefb34-3855-483f-aace-77793cd11a10",
+    "exercise_id": "ex-001",
+    "date": "2024-02-03T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 5,
+    "difficulty_level": 3,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "e104de88-d560-4294-a12d-686ac335a20f",
+    "exercise_id": "ex-002",
+    "date": "2024-02-03T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 5,
+    "difficulty_level": 4,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "6c83caa3-fd1d-4c7b-bc70-ed8c6a4f8261",
+    "exercise_id": "ex-003",
+    "date": "2024-02-03T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "ee79c91b-9125-4b06-b160-0a9acdcf44d6",
+    "exercise_id": "ex-001",
+    "date": "2024-02-04T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 5,
+    "difficulty_level": 5,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "b5b0d6dc-0b4c-43ff-b566-42045855bd91",
+    "exercise_id": "ex-002",
+    "date": "2024-02-04T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 5,
+    "difficulty_level": 3,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "ca386820-90ae-436d-b306-7a664eff9f18",
+    "exercise_id": "ex-003",
+    "date": "2024-02-04T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 5,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "6abba8f5-ec0c-410e-81cd-71cd5b980b2f",
+    "exercise_id": "ex-001",
+    "date": "2024-02-05T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "84849500-d20b-47dd-bcbe-809d33c43b92",
+    "exercise_id": "ex-002",
+    "date": "2024-02-05T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "938f8ffc-a33e-4219-8145-2960fd15b143",
+    "exercise_id": "ex-003",
+    "date": "2024-02-05T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 4,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "75fe94f2-2797-4b93-8191-1358678c106a",
+    "exercise_id": "ex-001",
+    "date": "2024-02-06T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 5,
+    "difficulty_level": 5,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "81c5e7d9-e531-474d-9410-a0a6c6600794",
+    "exercise_id": "ex-002",
+    "date": "2024-02-06T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 5,
+    "difficulty_level": 5,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "dcdd518c-92a5-4b4c-b42f-f59a812898ea",
+    "exercise_id": "ex-003",
+    "date": "2024-02-06T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 5,
+    "difficulty_level": 4,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "bcfdff91-498f-4b31-8586-47f81f8652b2",
+    "exercise_id": "ex-001",
+    "date": "2024-02-07T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 5,
+    "difficulty_level": 5,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "8cc3db3e-f843-46d4-b00e-48111a0a4a3b",
+    "exercise_id": "ex-002",
+    "date": "2024-02-07T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 4,
+    "difficulty_level": 3,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "d76b7ca3-a218-4dbb-9518-cb7ae970b0a1",
+    "exercise_id": "ex-003",
+    "date": "2024-02-07T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "df9c8b90-4cb4-476c-926e-bbca11129a9f",
+    "exercise_id": "ex-001",
+    "date": "2024-02-08T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "8935e82a-fcbc-45aa-bf17-376c1fc3d1f9",
+    "exercise_id": "ex-002",
+    "date": "2024-02-08T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 12,
+    "pain_level": 4,
+    "difficulty_level": 3,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "3b718f95-e3bb-4e5b-a38d-9414530d2035",
+    "exercise_id": "ex-003",
+    "date": "2024-02-08T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 5,
+    "difficulty_level": 5,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "3e73b316-05dd-4905-8f63-f7b7e9613cfc",
+    "exercise_id": "ex-001",
+    "date": "2024-02-09T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 5,
+    "difficulty_level": 5,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "b789227c-01e2-4948-a4e9-8874613ed93d",
+    "exercise_id": "ex-002",
+    "date": "2024-02-09T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 12,
+    "pain_level": 3,
+    "difficulty_level": 4,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "d6a45fd8-6e06-4c7b-8580-d39ea7a00013",
+    "exercise_id": "ex-003",
+    "date": "2024-02-09T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 5,
+    "difficulty_level": 3,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "86e96052-6c88-4167-91cd-048c8a499be2",
+    "exercise_id": "ex-001",
+    "date": "2024-02-10T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 4,
+    "difficulty_level": 3,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "2f1a25e2-2c40-4e2e-b672-7ec3dda1929b",
+    "exercise_id": "ex-002",
+    "date": "2024-02-10T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 5,
+    "difficulty_level": 4,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "74fa173f-963e-4c6d-a3c4-85db9f03fd10",
+    "exercise_id": "ex-003",
+    "date": "2024-02-10T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "8c98a157-7c61-4d8a-930c-463217228adb",
+    "exercise_id": "ex-001",
+    "date": "2024-02-11T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 4,
+    "difficulty_level": 3,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "00887b96-2f5d-4e1d-8d86-92f76521f719",
+    "exercise_id": "ex-002",
+    "date": "2024-02-11T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 5,
+    "difficulty_level": 4,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "a96dcc45-a6e5-4d7e-9c08-01f8f580a5bd",
+    "exercise_id": "ex-003",
+    "date": "2024-02-11T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 4,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "2b662423-7104-4c63-bd62-8ae9c8440023",
+    "exercise_id": "ex-001",
+    "date": "2024-02-12T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 3,
+    "difficulty_level": 4,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "7ae2ce80-8e2e-4ec9-9585-4a2208a6dabe",
+    "exercise_id": "ex-002",
+    "date": "2024-02-12T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 12,
+    "pain_level": 5,
+    "difficulty_level": 3,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "c067cf0a-fb74-488c-a3b1-def570c5973d",
+    "exercise_id": "ex-003",
+    "date": "2024-02-12T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 5,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "3f8edd13-0b82-470a-93d1-6992abc7a362",
+    "exercise_id": "ex-001",
+    "date": "2024-02-13T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 3,
+    "difficulty_level": 5,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "b29dd10b-13de-460d-b3c5-747da5389f2c",
+    "exercise_id": "ex-002",
+    "date": "2024-02-13T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "3b712935-ae10-4ed5-a6be-a8cee79be6ef",
+    "exercise_id": "ex-003",
+    "date": "2024-02-13T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 5,
+    "difficulty_level": 4,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "84032bd5-5f85-4ba3-b266-a9615031b7e1",
+    "exercise_id": "ex-001",
+    "date": "2024-02-14T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 4,
+    "difficulty_level": 3,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "243be413-3dc7-49e4-83d1-2ea9ed5d05f2",
+    "exercise_id": "ex-002",
+    "date": "2024-02-14T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "9caedf69-f94b-4ffb-bb39-1019f41a2642",
+    "exercise_id": "ex-003",
+    "date": "2024-02-14T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 5,
+    "difficulty_level": 2,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "6f9a9dd4-d113-4cfd-babb-d16755a46ac3",
+    "exercise_id": "ex-001",
+    "date": "2024-02-15T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 3,
+    "difficulty_level": 2,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "de4b308b-08b3-4308-b801-8a6c7120ecf0",
+    "exercise_id": "ex-002",
+    "date": "2024-02-15T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 3,
+    "difficulty_level": 2,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "ae3b0545-a152-4dfd-9f11-06b43540e345",
+    "exercise_id": "ex-003",
+    "date": "2024-02-15T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "3d9f84ae-0469-4ea0-8858-c3fb6131a496",
+    "exercise_id": "ex-001",
+    "date": "2024-02-16T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 4,
+    "difficulty_level": 2,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "8411c8b4-d9b3-41dc-b8d1-7327161dfa4c",
+    "exercise_id": "ex-002",
+    "date": "2024-02-16T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 3,
+    "difficulty_level": 2,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "11bf21fc-4a12-4d6b-970f-4d59791e4895",
+    "exercise_id": "ex-003",
+    "date": "2024-02-16T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 4,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "a8b3bdc8-2622-421b-893e-3dd02c02ee26",
+    "exercise_id": "ex-001",
+    "date": "2024-02-17T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 5,
+    "difficulty_level": 3,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "3aaf79ff-0a42-472c-8505-9bee57fd3a71",
+    "exercise_id": "ex-002",
+    "date": "2024-02-17T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 4,
+    "difficulty_level": 3,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "154ff07c-0b6f-44c9-8e6d-396b8aab2c91",
+    "exercise_id": "ex-003",
+    "date": "2024-02-17T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "f90d9234-981e-4476-9850-7992407772a5",
+    "exercise_id": "ex-001",
+    "date": "2024-02-18T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "c406e1e1-2fd0-422f-afe9-08b3ddc441f4",
+    "exercise_id": "ex-002",
+    "date": "2024-02-18T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 4,
+    "difficulty_level": 2,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "272ed636-7869-4bf6-a888-e525c1534ec4",
+    "exercise_id": "ex-003",
+    "date": "2024-02-18T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 5,
+    "difficulty_level": 4,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "6220ed15-db3d-4443-b8f6-e84a0e6c63a1",
+    "exercise_id": "ex-001",
+    "date": "2024-02-19T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "6f7fcea8-ae53-41db-90ca-0d0301151b4f",
+    "exercise_id": "ex-002",
+    "date": "2024-02-19T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 2,
+    "difficulty_level": 3,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "00eab79d-b58d-4402-bfc8-645f3be31240",
+    "exercise_id": "ex-003",
+    "date": "2024-02-19T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 2,
+    "difficulty_level": 3,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "84b515e5-4460-4d03-b44f-384b44bb786c",
+    "exercise_id": "ex-001",
+    "date": "2024-02-20T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 3,
+    "difficulty_level": 2,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "051e2feb-6fd3-4d9d-978d-fbe85b31918b",
+    "exercise_id": "ex-002",
+    "date": "2024-02-20T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 3,
+    "difficulty_level": 2,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "6c27cb76-ec15-4997-8d11-effa6d464085",
+    "exercise_id": "ex-003",
+    "date": "2024-02-20T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "941ac759-0de0-4f7c-b5b8-5ff7e4dd3dc9",
+    "exercise_id": "ex-001",
+    "date": "2024-02-21T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 4,
+    "difficulty_level": 2,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "68f7e8e2-e8d6-4218-a41f-e710a880c110",
+    "exercise_id": "ex-002",
+    "date": "2024-02-21T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 3,
+    "difficulty_level": 2,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "234da8a2-3cf1-4777-9357-b250b08d199a",
+    "exercise_id": "ex-003",
+    "date": "2024-02-21T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 2,
+    "difficulty_level": 3,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "69ef287d-a738-4d30-9b0b-9cd29a13ca2d",
+    "exercise_id": "ex-001",
+    "date": "2024-02-22T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 3,
+    "difficulty_level": 2,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "16864386-571b-4665-b39e-066ad01f3fe9",
+    "exercise_id": "ex-002",
+    "date": "2024-02-22T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 2,
+    "difficulty_level": 3,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "bed626af-742f-4463-9335-2a5a7290cfe9",
+    "exercise_id": "ex-003",
+    "date": "2024-02-22T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 2,
+    "difficulty_level": 4,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "2374b144-2bcb-4c05-96c8-ef18cf260a20",
+    "exercise_id": "ex-001",
+    "date": "2024-02-23T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "48a8ed1c-73f2-43ab-bd9c-dab4627ccd75",
+    "exercise_id": "ex-002",
+    "date": "2024-02-23T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 12,
+    "pain_level": 3,
+    "difficulty_level": 4,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "51de2670-33c8-4b0d-b475-cc288a23fab7",
+    "exercise_id": "ex-003",
+    "date": "2024-02-23T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 4,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "f2331c0f-e78c-45a4-8e5e-03f4d50a466d",
+    "exercise_id": "ex-001",
+    "date": "2024-02-24T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 3,
+    "difficulty_level": 4,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "bc9775f4-e763-43c9-b24e-bfd73df08dfd",
+    "exercise_id": "ex-002",
+    "date": "2024-02-24T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 12,
+    "pain_level": 4,
+    "difficulty_level": 3,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "9c0e9e38-985e-495a-95a5-bde3e99c99cc",
+    "exercise_id": "ex-003",
+    "date": "2024-02-24T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 2,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "b0809898-86c9-4957-b11e-198cc80583a3",
+    "exercise_id": "ex-001",
+    "date": "2024-02-25T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 2,
+    "difficulty_level": 3,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "227324d0-14c1-436b-9991-d71b95fa4a6c",
+    "exercise_id": "ex-002",
+    "date": "2024-02-25T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 12,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "f07866a1-aac1-4a3a-87e8-08a6c5eec27b",
+    "exercise_id": "ex-003",
+    "date": "2024-02-25T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 2,
+    "difficulty_level": 2,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "e1c9201e-a4f3-4761-b874-57b210b74f72",
+    "exercise_id": "ex-001",
+    "date": "2024-02-26T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "8df140ab-7bc6-45b7-9d8b-895a37538f7a",
+    "exercise_id": "ex-002",
+    "date": "2024-02-26T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 12,
+    "pain_level": 4,
+    "difficulty_level": 3,
+    "notes": "Performed better than yesterday."
+  },
+  {
+    "id": "bf6539fe-a61d-448e-b958-92a57123f934",
+    "exercise_id": "ex-003",
+    "date": "2024-02-26T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 2,
+    "difficulty_level": 2,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "adb6b195-e94b-4f06-b1b8-404287b7769c",
+    "exercise_id": "ex-001",
+    "date": "2024-02-27T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 2,
+    "difficulty_level": 3,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "24dd3b09-6bd4-4d46-9118-32b1c46ec614",
+    "exercise_id": "ex-002",
+    "date": "2024-02-27T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 2,
+    "difficulty_level": 2,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "49b9167a-352c-452d-a7dd-b04c884fc2f6",
+    "exercise_id": "ex-003",
+    "date": "2024-02-27T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 2,
+    "difficulty_level": 4,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "5131dfd3-76ce-47c9-94ac-a60fcbebfaf3",
+    "exercise_id": "ex-001",
+    "date": "2024-02-28T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 2,
+    "difficulty_level": 2,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "52b4cee0-4ab9-4877-9fed-8845b3af10cf",
+    "exercise_id": "ex-002",
+    "date": "2024-02-28T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 12,
+    "pain_level": 4,
+    "difficulty_level": 3,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "0d89bc98-4044-43ec-8545-b7210068c2a2",
+    "exercise_id": "ex-003",
+    "date": "2024-02-28T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "4fd30f45-c246-485b-a017-e0def6c8327f",
+    "exercise_id": "ex-001",
+    "date": "2024-02-29T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 3,
+    "difficulty_level": 2,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "0241e73c-6fa2-49eb-adb6-951b7a09396d",
+    "exercise_id": "ex-002",
+    "date": "2024-02-29T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 3,
+    "difficulty_level": 4,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "1dbcdf70-ba10-4f2d-a413-9322c230814d",
+    "exercise_id": "ex-003",
+    "date": "2024-02-29T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 2,
+    "difficulty_level": 4,
+    "notes": "Needed rest breaks during session."
+  },
+  {
+    "id": "ddc83f55-27fa-4283-9185-558d8a4f09dd",
+    "exercise_id": "ex-001",
+    "date": "2024-03-01T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 4,
+    "difficulty_level": 2,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "e421e059-35aa-49e6-9f8a-4cae1199ae63",
+    "exercise_id": "ex-002",
+    "date": "2024-03-01T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 12,
+    "pain_level": 3,
+    "difficulty_level": 2,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "22a50dcd-17ff-4de9-aa52-f2d6caf74510",
+    "exercise_id": "ex-003",
+    "date": "2024-03-01T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 2,
+    "difficulty_level": 4,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "3ab124bb-51fd-436e-b8cf-756f98e7090c",
+    "exercise_id": "ex-001",
+    "date": "2024-03-02T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 3,
+    "difficulty_level": 2,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "f3c93ac6-b381-4ddc-9f1a-ef7d276b3bc7",
+    "exercise_id": "ex-002",
+    "date": "2024-03-02T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 4,
+    "difficulty_level": 3,
+    "notes": "Slight soreness reported after session."
+  },
+  {
+    "id": "9c8e5a0f-a752-4472-bd29-bd3697459590",
+    "exercise_id": "ex-003",
+    "date": "2024-03-02T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 3,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "a2462454-fe8e-42b7-a23d-27111e3d5b34",
+    "exercise_id": "ex-001",
+    "date": "2024-03-03T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 2,
+    "difficulty_level": 4,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "34c78e5a-064a-458b-bda2-2a7410172cf4",
+    "exercise_id": "ex-002",
+    "date": "2024-03-03T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "f790baaa-eb69-4aed-b2b9-27be1fb22a5d",
+    "exercise_id": "ex-003",
+    "date": "2024-03-03T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 4,
+    "notes": "Improved range of motion noted."
+  },
+  {
+    "id": "b47925d5-8f48-411a-b177-b03b6ef65be9",
+    "exercise_id": "ex-001",
+    "date": "2024-03-04T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 3,
+    "difficulty_level": 4,
+    "notes": "Fatigue noted, lowered reps."
+  },
+  {
+    "id": "595ad129-0fa3-4d8a-bd4a-7b943660db94",
+    "exercise_id": "ex-002",
+    "date": "2024-03-04T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 12,
+    "pain_level": 4,
+    "difficulty_level": 2,
+    "notes": "Patient tolerated well."
+  },
+  {
+    "id": "1317d65d-6656-4f7c-b970-eb82fec05f26",
+    "exercise_id": "ex-003",
+    "date": "2024-03-04T00:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "Slight soreness reported after session."
+  }
+]

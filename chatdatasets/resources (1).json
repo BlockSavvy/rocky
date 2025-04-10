@@ -1,0 +1,26 @@
+[
+  {
+    "id": "res-001",
+    "title": "Understanding C5 Nerve Root Injuries",
+    "type": "article",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8365200/",
+    "description": "Comprehensive review of C5 nerve root injuries, typical symptoms, diagnostics, and recovery pathways.",
+    "added_date": "2023-11-30T00:00:00Z"
+  },
+  {
+    "id": "res-002",
+    "title": "Neurostimulation and Functional Recovery",
+    "type": "research",
+    "url": "https://www.frontiersin.org/articles/10.3389/fnins.2020.00042/full",
+    "description": "Explores the use of neuromuscular electrical stimulation in spinal cord injury recovery.",
+    "added_date": "2023-12-01T00:00:00Z"
+  },
+  {
+    "id": "res-003",
+    "title": "Upper Limb Passive Range of Motion Techniques",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=upJvaxEzK9g",
+    "description": "Demonstration of PROM techniques for patients with limited mobility.",
+    "added_date": "2023-12-02T00:00:00Z"
+  }
+]

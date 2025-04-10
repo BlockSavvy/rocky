@@ -1,36 +1,62 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Rocky Rehab
+
+A personalized rehabilitation tracking application for C4/C5 nerve injuries, designed to help patients monitor progress, follow exercise plans, and access recovery resources.
+
+## Features
+
+- **Rehabilitation Plan**: View and track personalized exercise regimens
+- **Progress Logging**: Record exercise completion, pain levels, and difficulty
+- **Analytics Dashboard**: Visualize recovery progress with charts and trends
+- **Resource Center**: Access curated educational materials for recovery
+- **AI Assistant**: Get guidance and answer questions about rehabilitation
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Node.js 18+ 
+- npm or yarn
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Installation
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. Clone the repository:
+   ```
+   git clone https://github.com/yourusername/rocky-rehab.git
+   cd rocky-rehab
+   ```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+2. Install dependencies:
+   ```
+   npm install
+   ```
 
-## Learn More
+3. Run the development server:
+   ```
+   npm run dev
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Data Structure
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+The application uses JSON files stored in the `public/data` directory:
 
-## Deploy on Vercel
+- `rehab-plan.json`: Contains exercise definitions
+- `progress-logs.json`: Stores exercise completion records
+- `resources.json`: Educational articles and resources
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Technology Stack
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Frontend**: React, Next.js 14, Tailwind CSS
+- **UI Components**: ShadCN UI
+- **Data Visualization**: Recharts
+- **API Routes**: Next.js API Routes
+
+## License
+
+[MIT](LICENSE)
+
+## Acknowledgments
+
+- Created for patients with C4/C5 nerve injuries to track their rehabilitation journey
+- Inspired by modern healthcare applications that prioritize user experience

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "f2519df7-c063-45bc-9064-28fc33067374",
+    "exercise_id": "ex-001",
+    "date": "2023-12-01T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 6,
+    "pain_level": 7,
+    "difficulty_level": 9,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "6acfdcce-4f92-4076-9194-e4f1f7cc9755",
+    "exercise_id": "ex-002",
+    "date": "2023-12-01T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 7,
+    "pain_level": 7,
+    "difficulty_level": 9,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "6e53c690-1815-4ac1-b191-fbcf39689284",
+    "exercise_id": "ex-003",
+    "date": "2023-12-01T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 6,
+    "difficulty_level": 8,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "prog-015-ex-001",
+    "exercise_id": "ex-001",
+    "date": "2023-12-16T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 18,
+    "pain_level": 5,
+    "difficulty_level": 7,
+    "notes": "Felt improvement"
+  },
+  {
+    "id": "prog-015-ex-002",
+    "exercise_id": "ex-002",
+    "date": "2023-12-16T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 24,
+    "pain_level": 6,
+    "difficulty_level": 7,
+    "notes": "Felt improvement"
+  },
+  {
+    "id": "prog-015-ex-003",
+    "exercise_id": "ex-003",
+    "date": "2023-12-16T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 20,
+    "pain_level": 5,
+    "difficulty_level": 8,
+    "notes": "Felt improvement"
+  },
+  {
+    "id": "prog-030-ex-001",
+    "exercise_id": "ex-001",
+    "date": "2023-12-31T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 16,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Felt improvement"
+  },
+  {
+    "id": "prog-030-ex-002",
+    "exercise_id": "ex-002",
+    "date": "2023-12-31T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 16,
+    "pain_level": 3,
+    "difficulty_level": 6,
+    "notes": "Felt improvement"
+  },
+  {
+    "id": "prog-030-ex-003",
+    "exercise_id": "ex-003",
+    "date": "2023-12-31T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 18,
+    "pain_level": 4,
+    "difficulty_level": 5,
+    "notes": "Felt improvement"
+  },
+  {
+    "id": "prog-045-ex-001",
+    "exercise_id": "ex-001",
+    "date": "2024-01-15T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 27,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "Felt improvement"
+  },
+  {
+    "id": "prog-045-ex-002",
+    "exercise_id": "ex-002",
+    "date": "2024-01-15T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 20,
+    "pain_level": 4,
+    "difficulty_level": 3,
+    "notes": "Felt improvement"
+  },
+  {
+    "id": "prog-045-ex-003",
+    "exercise_id": "ex-003",
+    "date": "2024-01-15T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 18,
+    "pain_level": 3,
+    "difficulty_level": 4,
+    "notes": "Felt improvement"
+  },
+  {
+    "id": "prog-060-ex-001",
+    "exercise_id": "ex-001",
+    "date": "2024-01-30T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 24,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Felt improvement"
+  },
+  {
+    "id": "prog-060-ex-002",
+    "exercise_id": "ex-002",
+    "date": "2024-01-30T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 27,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "Felt improvement"
+  },
+  {
+    "id": "prog-060-ex-003",
+    "exercise_id": "ex-003",
+    "date": "2024-01-30T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 30,
+    "pain_level": 2,
+    "difficulty_level": 3,
+    "notes": "Felt improvement"
+  },
+  {
+    "id": "prog-075-ex-001",
+    "exercise_id": "ex-001",
+    "date": "2024-02-14T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 30,
+    "pain_level": 0,
+    "difficulty_level": 1,
+    "notes": "Felt improvement"
+  },
+  {
+    "id": "prog-075-ex-002",
+    "exercise_id": "ex-002",
+    "date": "2024-02-14T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 27,
+    "pain_level": 1,
+    "difficulty_level": 0,
+    "notes": "Felt improvement"
+  },
+  {
+    "id": "prog-075-ex-003",
+    "exercise_id": "ex-003",
+    "date": "2024-02-14T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 20,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Felt improvement"
+  },
+  {
+    "id": "prog-090-ex-001",
+    "exercise_id": "ex-001",
+    "date": "2024-02-29T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 24,
+    "pain_level": 1,
+    "difficulty_level": 0,
+    "notes": "Felt improvement"
+  },
+  {
+    "id": "prog-090-ex-002",
+    "exercise_id": "ex-002",
+    "date": "2024-02-29T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 20,
+    "pain_level": 0,
+    "difficulty_level": 0,
+    "notes": "Felt improvement"
+  },
+  {
+    "id": "prog-090-ex-003",
+    "exercise_id": "ex-003",
+    "date": "2024-02-29T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 24,
+    "pain_level": 1,
+    "difficulty_level": 0,
+    "notes": "Felt improvement"
+  },
+  {
+    "id": "prog-094-ex-001",
+    "exercise_id": "ex-001",
+    "date": "2024-03-04T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 16,
+    "pain_level": 0,
+    "difficulty_level": 0,
+    "notes": "Felt improvement - Final session"
+  },
+  {
+    "id": "prog-094-ex-002",
+    "exercise_id": "ex-002",
+    "date": "2024-03-04T00:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 18,
+    "pain_level": 0,
+    "difficulty_level": 0,
+    "notes": "Felt improvement - Final session"
+  },
+  {
+    "id": "prog-094-ex-003",
+    "exercise_id": "ex-003",
+    "date": "2024-03-04T00:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 30,
+    "pain_level": 1,
+    "difficulty_level": 0,
+    "notes": "Felt improvement - Final session"
+  }
+] 

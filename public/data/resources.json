@@ -1,0 +1,66 @@
+[
+  {
+    "id": "res-001",
+    "title": "Understanding C4/C5 Injuries",
+    "type": "article",
+    "url": "https://www.spine-health.com/conditions/spine-anatomy/c4-c5-spinal-motion-segment",
+    "description": "Detailed article explaining the C4/C5 spinal motion segment, common injuries and recovery considerations",
+    "added_date": "2023-11-30T00:00:00Z"
+  },
+  {
+    "id": "res-002",
+    "title": "Deltoid Activation with E-Stim - Protocols",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=example-deltoid-estim",
+    "description": "Demonstration of e-stim pad placement and deltoid stimulation for nerve re-education",
+    "added_date": "2023-12-02T00:00:00Z"
+  },
+  {
+    "id": "res-003",
+    "title": "Passive Range of Motion Techniques",
+    "type": "guide",
+    "url": "https://www.physio-pedia.com/Passive_Movements",
+    "description": "Illustrated manual of PROM techniques for upper extremity rehab",
+    "added_date": "2023-12-03T00:00:00Z"
+  },
+  {
+    "id": "res-004",
+    "title": "Nutritional Support for Nerve Recovery",
+    "type": "article",
+    "url": "https://www.eatright.org/health/wellness/preventing-illness/nutrition-for-a-healthy-nervous-system",
+    "description": "Expert guidance on foods and supplements that support nerve regeneration",
+    "added_date": "2024-01-15T00:00:00Z"
+  },
+  {
+    "id": "res-005",
+    "title": "Mindfulness for Pain Management",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=example-mindfulness-pain",
+    "description": "Guided meditation techniques specifically for managing neuropathic pain",
+    "added_date": "2024-01-28T00:00:00Z"
+  },
+  {
+    "id": "res-006",
+    "title": "Assistive Technology for C-Spine Injuries",
+    "type": "guide",
+    "url": "https://www.christopherreeve.org/living-with-paralysis/home-modification",
+    "description": "Review of helpful adaptive equipment and home modifications",
+    "added_date": "2024-02-10T00:00:00Z"
+  },
+  {
+    "id": "res-007",
+    "title": "Understanding Nerve Regeneration Timeline",
+    "type": "article",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/example-nerve-regeneration",
+    "description": "Scientific explanation of peripheral nerve healing process and realistic recovery expectations",
+    "added_date": "2024-02-20T00:00:00Z"
+  },
+  {
+    "id": "res-008",
+    "title": "C4/C5 Recovery Success Stories",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=example-success-stories",
+    "description": "Interviews with patients who have navigated recovery from similar injuries",
+    "added_date": "2024-03-01T00:00:00Z"
+  }
+] 

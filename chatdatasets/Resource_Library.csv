@@ -1,0 +1,3 @@
+id,title,type,url,description,tags,trusted_source,added_date
+res-c5-edu,Understanding C4/C5 Nerve Root Injuries,article,https://example.com/nerve-c4c5-overview,Explains how C5 impacts biceps and recovery patterns.,"['C5', 'spinal nerve', 'biceps recovery']",True,2023-11-30T00:00:00Z
+res-emg-guide,Intro to EMG and Muscle Stimulation,video,https://example.com/emg-stim-basics,How electrical muscle stimulation helps in neuro rehab.,"['EMG', 'stimulation', 'neuro rehab']",True,2023-12-03T00:00:00Z

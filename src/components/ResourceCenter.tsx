@@ -1,6 +1,7 @@
 import React from 'react';
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
 import { ScrollArea } from "@/components/ui/scroll-area";
+import { FileText, Link as LinkIcon } from 'lucide-react'; // Import icons
 
 // Define interface matching backend Resource model
 interface Resource {
@@ -16,7 +17,7 @@ interface ResourceCenterProps {
   resources: Resource[];
   isLoading: boolean;
   error: string | null;
-  // Add onSelectResource callback later if needed for viewing content
+  // TODO: Add onSelectResource callback later
 }
 
 const ResourceCenter: React.FC<ResourceCenterProps> = ({ 
@@ -53,28 +54,37 @@ const ResourceCenter: React.FC<ResourceCenterProps> = ({
   }
 
   return (
-    <Card className="flex flex-col h-full"> 
-      <CardHeader>
-        <CardTitle className="text-lg">Resource Center</CardTitle>
+    <Card className="flex flex-col h-full border-0 shadow-none"> 
+      <CardHeader className="pt-0 px-1 pb-3">
+        <CardTitle className="text-lg">Resources</CardTitle> {/* Simplified Title */} 
       </CardHeader>
-      <CardContent className="flex-grow overflow-hidden">
+      <CardContent className="flex-grow overflow-hidden p-0"> 
         {resources.length === 0 ? (
-          <p className="text-sm text-muted-foreground">No resources available yet.</p>
+          <p className="text-sm text-muted-foreground px-1">No resources available yet.</p>
         ) : (
-          <ScrollArea className="h-full pr-3"> {/* Use full height */} 
+          <ScrollArea className="h-full pr-1"> 
             <ul className="space-y-2">
-              {[...resources].sort((a, b) => new Date(b.added_date).getTime() - new Date(a.added_date).getTime()).map((resource) => ( // Show newest first
+              {[...resources].sort((a, b) => new Date(b.added_date).getTime() - new Date(a.added_date).getTime()).map((resource) => (
                 <li 
                     key={resource.id} 
-                    className="p-3 border border-border rounded-md bg-background text-sm hover:bg-accent cursor-pointer transition-colors" 
+                    className="flex items-center gap-3 p-3 border border-border rounded-md bg-background text-sm hover:bg-accent cursor-pointer transition-colors"
                     // onClick={() => onSelectResource(resource.id)} // Add later for viewing
+                    title={`View ${resource.title}`}
                 >
-                  <p className="font-medium text-foreground mb-1 truncate" title={resource.title}>
-                    {resource.title}
-                  </p>
-                  <p className="text-xs text-muted-foreground">
-                    Type: {resource.type} | Added: {new Date(resource.added_date).toLocaleDateString()}
-                  </p>
+                  {/* Icon based on type */} 
+                  {resource.type === 'link' ? 
+                    <LinkIcon className="h-4 w-4 text-muted-foreground flex-shrink-0" /> : 
+                    <FileText className="h-4 w-4 text-muted-foreground flex-shrink-0" />
+                  }
+                  <div className="flex-1 overflow-hidden"> {/* Prevent text overflow */} 
+                      <p className="font-medium text-foreground truncate">
+                        {resource.title}
+                      </p>
+                      <p className="text-xs text-muted-foreground">
+                        Type: {resource.type} | Added: {new Date(resource.added_date).toLocaleDateString()}
+                      </p>
+                  </div>
+                  {/* Add a view/open button later? */}
                 </li>
               ))}
             </ul>

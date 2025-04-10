@@ -1,0 +1,16 @@
+id,exercise_id,date,completed_sets,completed_reps,pain_level,difficulty_level,notes
+f2519df7-c063-45bc-9064-28fc33067374,ex-001,2023-12-01T10:00:00Z,1,6.0,7,9,Felt stronger today
+6acfdcce-4f92-4076-9194-e4f1f7cc9755,ex-002,2023-12-01T10:00:00Z,2,7.0,7,9,Pain consistent with previous session
+6e53c690-1815-4ac1-b191-fbcf39689284,ex-003,2023-12-01T10:00:00Z,1,,6,8,Pain consistent with previous session
+60cd46fe-2d6b-4cd0-acc0-550af36b0169,ex-001,2023-12-02T10:00:00Z,1,7.0,5,7,Felt stronger today
+5992cef3-aca3-499f-813f-fa2303ae9b26,ex-002,2023-12-02T10:00:00Z,1,8.0,4,6,Mild soreness in shoulder
+acc85495-2548-4668-b203-a5d990fe5ef6,ex-003,2023-12-02T10:00:00Z,1,,4,6,Pain consistent with previous session
+27c8bbf0-2564-4f16-a7f5-d1eb62a6a906,ex-001,2023-12-03T10:00:00Z,1,6.0,4,6,Mild soreness in shoulder
+3fe13cbb-8b96-4ea8-af66-410a5c51b583,ex-002,2023-12-03T10:00:00Z,1,8.0,4,6,Range of motion improved slightly
+cc7d9156-f0b1-498a-aee4-24cc44cbb48f,ex-003,2023-12-03T10:00:00Z,1,,4,6,Fatigue midway through exercise
+3a1b7cae-fb02-4e19-b52e-e21a20234806,ex-001,2023-12-04T10:00:00Z,2,9.0,4,6,Mild soreness in shoulder
+a5e1c8e9-49c9-442c-8b65-ff54aec2a83b,ex-002,2023-12-04T10:00:00Z,1,5.0,4,5,No issues during exercise
+91625f9e-7e77-4b1b-8692-61feb848afb9,ex-003,2023-12-04T10:00:00Z,1,,3,5,Pain consistent with previous session
+9849f41d-396c-49c5-9977-7d0d55ceec99,ex-001,2023-12-05T10:00:00Z,3,9.0,3,5,Fatigue midway through exercise
+01182ff1-45d4-43e4-b54f-442fb31d53ce,ex-002,2023-12-05T10:00:00Z,2,5.0,2,4,No issues during exercise
+4c6da6bf-a859-4081-bbb1-688c52ad206e,ex-003,2023-12-05T10:00:00Z,1,,2,3,No issues during exercise

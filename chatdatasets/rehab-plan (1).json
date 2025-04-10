@@ -1,0 +1,35 @@
+{
+  "id": "plan-001",
+  "name": "C5 Nerve Root Injury Recovery Plan",
+  "start_date": "2023-12-01T00:00:00Z",
+  "goal": "Restore biceps function and upper limb strength through progressive rehabilitation and neurostimulation.",
+  "exercises": [
+    {
+      "id": "ex-001",
+      "name": "Deltoid Activation with e-stim",
+      "description": "Electrical stimulation applied to deltoid to trigger muscle contraction.",
+      "sets": 2,
+      "reps": 10,
+      "duration_seconds": 600,
+      "instructions": "Apply electrodes over deltoid; stimulate for 10 minutes at comfortable intensity."
+    },
+    {
+      "id": "ex-002",
+      "name": "Supine PROM Shoulder Flexion",
+      "description": "Passive Range of Motion performed with assistance while lying supine.",
+      "sets": 2,
+      "reps": 12,
+      "duration_seconds": 300,
+      "instructions": "Therapist-assisted elevation of arm to full available range without resistance."
+    },
+    {
+      "id": "ex-003",
+      "name": "Passive Arm Bike",
+      "description": "Motor-assisted cycling for shoulder/elbow movement stimulation.",
+      "sets": 1,
+      "reps": null,
+      "duration_seconds": 900,
+      "instructions": "Arm positioned in bike support; cycle passively for 15 minutes."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "plan-001",
+  "name": "C4/C5 Recovery Plan",
+  "start_date": "2023-12-01T00:00:00Z",
+  "goal": "Restore deltoid and biceps function post C5 nerve root injury",
+  "exercises": [
+    {
+      "id": "ex-001",
+      "name": "Supine Passive Range of Motion (PROM)",
+      "description": "Gentle arm movements assisted by therapist or caregiver",
+      "sets": 3,
+      "reps": 10,
+      "duration_seconds": null,
+      "instructions": "Support arm at wrist and elbow, move through comfortable range"
+    },
+    {
+      "id": "ex-002",
+      "name": "Deltoid Activation with e-stim",
+      "description": "Electrical stimulation to deltoid with attempt at voluntary contraction",
+      "sets": 2,
+      "reps": 8,
+      "duration_seconds": null,
+      "instructions": "Apply e-stim pads, stimulate deltoid while attempting contraction"
+    },
+    {
+      "id": "ex-003",
+      "name": "Arm Bike (Ergometer) Passive Mode",
+      "description": "Motor-assisted arm cycling to improve range and circulation",
+      "sets": 1,
+      "reps": null,
+      "duration_seconds": 300,
+      "instructions": "Secure arm to ergometer, run passive cycle for 5 minutes"
+    }
+  ]
+}

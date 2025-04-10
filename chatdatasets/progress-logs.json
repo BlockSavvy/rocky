@@ -1,0 +1,2852 @@
+[
+  {
+    "id": "f2519df7-c063-45bc-9064-28fc33067374",
+    "exercise_id": "ex-001",
+    "date": "2023-12-01T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 6,
+    "pain_level": 7,
+    "difficulty_level": 9,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "6acfdcce-4f92-4076-9194-e4f1f7cc9755",
+    "exercise_id": "ex-002",
+    "date": "2023-12-01T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 7,
+    "pain_level": 7,
+    "difficulty_level": 9,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "6e53c690-1815-4ac1-b191-fbcf39689284",
+    "exercise_id": "ex-003",
+    "date": "2023-12-01T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 6,
+    "difficulty_level": 8,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "60cd46fe-2d6b-4cd0-acc0-550af36b0169",
+    "exercise_id": "ex-001",
+    "date": "2023-12-02T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 5,
+    "difficulty_level": 7,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "5992cef3-aca3-499f-813f-fa2303ae9b26",
+    "exercise_id": "ex-002",
+    "date": "2023-12-02T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 8,
+    "pain_level": 4,
+    "difficulty_level": 6,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "acc85495-2548-4668-b203-a5d990fe5ef6",
+    "exercise_id": "ex-003",
+    "date": "2023-12-02T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 6,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "27c8bbf0-2564-4f16-a7f5-d1eb62a6a906",
+    "exercise_id": "ex-001",
+    "date": "2023-12-03T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 6,
+    "pain_level": 4,
+    "difficulty_level": 6,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "3fe13cbb-8b96-4ea8-af66-410a5c51b583",
+    "exercise_id": "ex-002",
+    "date": "2023-12-03T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 8,
+    "pain_level": 4,
+    "difficulty_level": 6,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "cc7d9156-f0b1-498a-aee4-24cc44cbb48f",
+    "exercise_id": "ex-003",
+    "date": "2023-12-03T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 6,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "3a1b7cae-fb02-4e19-b52e-e21a20234806",
+    "exercise_id": "ex-001",
+    "date": "2023-12-04T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 9,
+    "pain_level": 4,
+    "difficulty_level": 6,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "a5e1c8e9-49c9-442c-8b65-ff54aec2a83b",
+    "exercise_id": "ex-002",
+    "date": "2023-12-04T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 5,
+    "pain_level": 4,
+    "difficulty_level": 5,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "91625f9e-7e77-4b1b-8692-61feb848afb9",
+    "exercise_id": "ex-003",
+    "date": "2023-12-04T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 5,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "9849f41d-396c-49c5-9977-7d0d55ceec99",
+    "exercise_id": "ex-001",
+    "date": "2023-12-05T10:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 9,
+    "pain_level": 3,
+    "difficulty_level": 5,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "01182ff1-45d4-43e4-b54f-442fb31d53ce",
+    "exercise_id": "ex-002",
+    "date": "2023-12-05T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 5,
+    "pain_level": 2,
+    "difficulty_level": 4,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "4c6da6bf-a859-4081-bbb1-688c52ad206e",
+    "exercise_id": "ex-003",
+    "date": "2023-12-05T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 2,
+    "difficulty_level": 3,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "229e64d0-b2a9-44b2-acd3-65eaac2f000d",
+    "exercise_id": "ex-001",
+    "date": "2023-12-06T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 9,
+    "pain_level": 2,
+    "difficulty_level": 3,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "ba6ce794-904b-40bd-b722-8f482726accc",
+    "exercise_id": "ex-002",
+    "date": "2023-12-06T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 2,
+    "difficulty_level": 3,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "ac710e81-d1bf-40a0-85e2-c524945bd728",
+    "exercise_id": "ex-003",
+    "date": "2023-12-06T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 2,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "f0e1507f-bc05-43c0-b615-0dd2797e8bef",
+    "exercise_id": "ex-001",
+    "date": "2023-12-07T10:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 6,
+    "pain_level": 1,
+    "difficulty_level": 2,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "ee0a477a-5e27-405b-b651-70afbb3d3eda",
+    "exercise_id": "ex-002",
+    "date": "2023-12-07T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 8,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "3ff4db1a-db83-4b49-b43b-0afbaf11445c",
+    "exercise_id": "ex-003",
+    "date": "2023-12-07T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "4667f4c5-b2a0-4714-9e12-d5c01c1a1e22",
+    "exercise_id": "ex-001",
+    "date": "2023-12-08T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 2,
+    "difficulty_level": 2,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "9021f79c-5831-404d-aaaa-7aea61341e25",
+    "exercise_id": "ex-002",
+    "date": "2023-12-08T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 6,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "78a43772-067a-45f2-bfb3-0644b6f3b8ef",
+    "exercise_id": "ex-003",
+    "date": "2023-12-08T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "55b0e7af-e162-45a3-b0d1-32913354dc87",
+    "exercise_id": "ex-001",
+    "date": "2023-12-09T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 5,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "63ddd21d-2d94-42b0-9151-041b1d2426ca",
+    "exercise_id": "ex-002",
+    "date": "2023-12-09T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 8,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "ada25ec2-94b8-4806-b85d-f18c1517c001",
+    "exercise_id": "ex-003",
+    "date": "2023-12-09T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "25258249-cb44-4012-a5ed-9d23234c73ea",
+    "exercise_id": "ex-001",
+    "date": "2023-12-10T10:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 6,
+    "pain_level": 3,
+    "difficulty_level": 2,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "b1c34a58-1e74-4ee3-a46b-780472eafda4",
+    "exercise_id": "ex-002",
+    "date": "2023-12-10T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 8,
+    "pain_level": 3,
+    "difficulty_level": 1,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "bbc4a4b0-a943-4323-acad-6b3be50eaf2f",
+    "exercise_id": "ex-003",
+    "date": "2023-12-10T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "e59c9bd4-1e31-40e7-b12f-e76d4a6020a0",
+    "exercise_id": "ex-001",
+    "date": "2023-12-11T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 6,
+    "pain_level": 3,
+    "difficulty_level": 1,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "dbd213d8-b03f-4b50-9afd-39f4b99e6bf7",
+    "exercise_id": "ex-002",
+    "date": "2023-12-11T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 5,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "3b458b80-cc8b-4928-b7b8-23f174b2e52d",
+    "exercise_id": "ex-003",
+    "date": "2023-12-11T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "c6aa6667-5dac-4e5c-b6c0-76321a179d96",
+    "exercise_id": "ex-001",
+    "date": "2023-12-12T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 6,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "ecc8fcc5-d64f-49fd-90f5-6fe9c428f1b5",
+    "exercise_id": "ex-002",
+    "date": "2023-12-12T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 5,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "1d3f829d-c675-49e7-91f3-4be6fbaddc9f",
+    "exercise_id": "ex-003",
+    "date": "2023-12-12T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "ef4dc7b1-629b-4b07-a5df-9523621a2beb",
+    "exercise_id": "ex-001",
+    "date": "2023-12-13T10:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "3e92397e-bffb-4b89-b769-e00d55af7dba",
+    "exercise_id": "ex-002",
+    "date": "2023-12-13T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 8,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "4132b68a-e9c0-4c77-a458-9e4ca83aa3c1",
+    "exercise_id": "ex-003",
+    "date": "2023-12-13T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "c93a7400-2be6-4ae3-a6e8-43b1028b451b",
+    "exercise_id": "ex-001",
+    "date": "2023-12-14T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 8,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "20c6146a-aeac-44b1-a295-9d9b8df2a045",
+    "exercise_id": "ex-002",
+    "date": "2023-12-14T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 6,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "8fe1fe01-cbac-47df-ae48-e0f884e746c6",
+    "exercise_id": "ex-003",
+    "date": "2023-12-14T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "54eea6b8-a456-48f0-99f1-af9aa77f3e82",
+    "exercise_id": "ex-001",
+    "date": "2023-12-15T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 5,
+    "pain_level": 3,
+    "difficulty_level": 2,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "d941b883-b7f5-4076-be42-a2d2388a4a11",
+    "exercise_id": "ex-002",
+    "date": "2023-12-15T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 4,
+    "difficulty_level": 3,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "182ef48b-0907-4b7d-b415-df4bc703d0bc",
+    "exercise_id": "ex-003",
+    "date": "2023-12-15T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 5,
+    "difficulty_level": 4,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "2a669049-842b-4779-b19a-7f2953ca04c3",
+    "exercise_id": "ex-001",
+    "date": "2023-12-16T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 5,
+    "pain_level": 5,
+    "difficulty_level": 4,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "b993a6ea-e801-4add-9ca5-4f4109320fc6",
+    "exercise_id": "ex-002",
+    "date": "2023-12-16T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 6,
+    "pain_level": 5,
+    "difficulty_level": 3,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "2fd9c15c-6382-4c1c-aacc-c3ecdc661134",
+    "exercise_id": "ex-003",
+    "date": "2023-12-16T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 2,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "06be57b6-5f8f-4239-bbcf-75e2b651d09b",
+    "exercise_id": "ex-001",
+    "date": "2023-12-17T10:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 5,
+    "pain_level": 4,
+    "difficulty_level": 2,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "d54c3c91-346b-4854-8ffc-7fe51b0ede41",
+    "exercise_id": "ex-002",
+    "date": "2023-12-17T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 3,
+    "difficulty_level": 1,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "caa554cc-a0f0-4c3f-ad54-43e8f49f662c",
+    "exercise_id": "ex-003",
+    "date": "2023-12-17T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 1,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "2cbbcdc6-ef70-45bb-89f5-bbb6022d7d7b",
+    "exercise_id": "ex-001",
+    "date": "2023-12-18T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 6,
+    "pain_level": 3,
+    "difficulty_level": 1,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "b0f59b8f-50bf-41ec-965b-d3edd51cc324",
+    "exercise_id": "ex-002",
+    "date": "2023-12-18T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 6,
+    "pain_level": 3,
+    "difficulty_level": 1,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "7f8d287e-1ca8-4635-8b69-59f6c4184c05",
+    "exercise_id": "ex-003",
+    "date": "2023-12-18T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "4c301074-f590-4f90-aad1-54272863c617",
+    "exercise_id": "ex-001",
+    "date": "2023-12-19T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "c4a9cf79-674e-4a1e-9404-9c22abb86966",
+    "exercise_id": "ex-002",
+    "date": "2023-12-19T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 7,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "62ae7777-393b-464b-a8aa-3f331402744f",
+    "exercise_id": "ex-003",
+    "date": "2023-12-19T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "984be4d0-5306-42ab-8c03-a6ce8ff2ec17",
+    "exercise_id": "ex-001",
+    "date": "2023-12-20T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "298b3344-481e-4314-847e-bfcbb1ff638d",
+    "exercise_id": "ex-002",
+    "date": "2023-12-20T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 6,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "9868ead1-2381-4bad-a280-b97621ec12f5",
+    "exercise_id": "ex-003",
+    "date": "2023-12-20T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "b0c39378-956b-4d9c-b7c2-c3eb9cc61867",
+    "exercise_id": "ex-001",
+    "date": "2023-12-21T10:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 6,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "de1d45b1-bfc3-4020-9a18-de9325cbeb0f",
+    "exercise_id": "ex-002",
+    "date": "2023-12-21T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 7,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "07f2f25c-67e8-41af-b480-35ea9852281e",
+    "exercise_id": "ex-003",
+    "date": "2023-12-21T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "886c2582-5d50-4dee-95a0-a481f1c67350",
+    "exercise_id": "ex-001",
+    "date": "2023-12-22T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 3,
+    "difficulty_level": 2,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "bae716b3-4123-4b2d-b0dd-c34d1d4727f0",
+    "exercise_id": "ex-002",
+    "date": "2023-12-22T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 7,
+    "pain_level": 4,
+    "difficulty_level": 3,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "b7348372-df33-48da-9151-c08298481025",
+    "exercise_id": "ex-003",
+    "date": "2023-12-22T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 5,
+    "difficulty_level": 4,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "38d952ec-7697-4905-8ad2-92aedae57711",
+    "exercise_id": "ex-001",
+    "date": "2023-12-23T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 6,
+    "pain_level": 5,
+    "difficulty_level": 3,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "7b0cb52e-cac6-494d-8bb6-21522a069c80",
+    "exercise_id": "ex-002",
+    "date": "2023-12-23T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 5,
+    "pain_level": 4,
+    "difficulty_level": 3,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "e46c6026-a1af-4095-ba18-df7bb12fa05c",
+    "exercise_id": "ex-003",
+    "date": "2023-12-23T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "a653fe61-c457-4dec-bf22-8fbca495fc67",
+    "exercise_id": "ex-001",
+    "date": "2023-12-24T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 6,
+    "pain_level": 2,
+    "difficulty_level": 2,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "29d72612-c913-4063-a496-5e369390fa60",
+    "exercise_id": "ex-002",
+    "date": "2023-12-24T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 2,
+    "difficulty_level": 2,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "8c1a5242-a6cd-4b48-8341-389b4e481f5e",
+    "exercise_id": "ex-003",
+    "date": "2023-12-24T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 2,
+    "difficulty_level": 2,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "e96201b8-41b0-447e-b383-234db2cd6e3b",
+    "exercise_id": "ex-001",
+    "date": "2023-12-25T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 7,
+    "pain_level": 1,
+    "difficulty_level": 2,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "b88914cd-d17a-4d19-b5e8-f2065613ce4b",
+    "exercise_id": "ex-002",
+    "date": "2023-12-25T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 5,
+    "pain_level": 1,
+    "difficulty_level": 2,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "e4a7f108-4cfc-4dfe-bab2-8756e5024171",
+    "exercise_id": "ex-003",
+    "date": "2023-12-25T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 2,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "cffbc511-38fc-4f4f-b0f9-f86f1d4ef359",
+    "exercise_id": "ex-001",
+    "date": "2023-12-26T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 1,
+    "difficulty_level": 2,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "70baeee5-c669-4e2f-b5ce-b8bd4cce28ba",
+    "exercise_id": "ex-002",
+    "date": "2023-12-26T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 8,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "af9b276c-b013-4e79-bae8-6df63748b5ff",
+    "exercise_id": "ex-003",
+    "date": "2023-12-26T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "3869d4be-fe94-47fe-a968-b3e0726d0fa6",
+    "exercise_id": "ex-001",
+    "date": "2023-12-27T10:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "f1bbe533-b7d7-4667-8ca7-b3452deb66db",
+    "exercise_id": "ex-002",
+    "date": "2023-12-27T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 5,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "f13a3978-dd07-4374-a8d1-51bf94b7f971",
+    "exercise_id": "ex-003",
+    "date": "2023-12-27T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "2e4bcf01-5c1b-49ea-ab71-6ce3a16a0d9a",
+    "exercise_id": "ex-001",
+    "date": "2023-12-28T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 8,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "dec34430-be27-4c8c-95d0-df4e02b0984f",
+    "exercise_id": "ex-002",
+    "date": "2023-12-28T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "759d3706-73b6-4972-895c-3b0af6c3127e",
+    "exercise_id": "ex-003",
+    "date": "2023-12-28T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "ff5c9a12-cfa8-43ac-854a-23f6eaa6806b",
+    "exercise_id": "ex-001",
+    "date": "2023-12-29T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 5,
+    "pain_level": 2,
+    "difficulty_level": 2,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "07803e7c-d54a-499e-94a1-c7895e9712bc",
+    "exercise_id": "ex-002",
+    "date": "2023-12-29T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 6,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "09ac6db3-3979-40fa-8813-5dd9d15bb9e1",
+    "exercise_id": "ex-003",
+    "date": "2023-12-29T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "c283a7b7-9de9-4f4f-b1ec-9474441caa56",
+    "exercise_id": "ex-001",
+    "date": "2023-12-30T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "106f387b-b0ba-4b97-8c1d-ffbdc7187766",
+    "exercise_id": "ex-002",
+    "date": "2023-12-30T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 8,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "ad9220f1-0593-46b4-baae-dd4f002aade4",
+    "exercise_id": "ex-003",
+    "date": "2023-12-30T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 2,
+    "difficulty_level": 2,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "4f61005d-fc5d-4f33-bcff-407c3673eb03",
+    "exercise_id": "ex-001",
+    "date": "2023-12-31T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 9,
+    "pain_level": 2,
+    "difficulty_level": 2,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "a83c82a6-4d2e-41b2-af18-16a3e0da0e54",
+    "exercise_id": "ex-002",
+    "date": "2023-12-31T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 6,
+    "pain_level": 1,
+    "difficulty_level": 2,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "d866956f-4b0a-4c06-9a4f-d8bf6bc663f1",
+    "exercise_id": "ex-003",
+    "date": "2023-12-31T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 2,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "c60711ec-bf73-477c-ad83-7edd3fca66a1",
+    "exercise_id": "ex-001",
+    "date": "2024-01-01T10:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 7,
+    "pain_level": 1,
+    "difficulty_level": 2,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "df356353-7e45-4d86-9e12-7826b2d798ba",
+    "exercise_id": "ex-002",
+    "date": "2024-01-01T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 5,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "3389497a-62a4-472a-a33e-83875610f369",
+    "exercise_id": "ex-003",
+    "date": "2024-01-01T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "c6997264-6132-4f32-9149-55c4d061f94e",
+    "exercise_id": "ex-001",
+    "date": "2024-01-02T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "960abd7d-d073-4574-bafc-691b31acfc20",
+    "exercise_id": "ex-002",
+    "date": "2024-01-02T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 7,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "c794e01c-5db0-495a-974e-119e1ed51efe",
+    "exercise_id": "ex-003",
+    "date": "2024-01-02T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "1007b4b3-2707-42c1-9b9c-20fae5100dd7",
+    "exercise_id": "ex-001",
+    "date": "2024-01-03T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 8,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "efbd0b59-dce9-4a56-95d5-2de785fea750",
+    "exercise_id": "ex-002",
+    "date": "2024-01-03T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 8,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "98f99a2c-58a4-4158-8a58-0fd4aea9f30a",
+    "exercise_id": "ex-003",
+    "date": "2024-01-03T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "15e879d6-ef29-4c84-a8d6-0ed46d17e128",
+    "exercise_id": "ex-001",
+    "date": "2024-01-04T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 5,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "86b78a08-d7d6-4ac1-8c81-58cebea36f6e",
+    "exercise_id": "ex-002",
+    "date": "2024-01-04T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 5,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "1c39187b-75c2-43c5-9ea3-a99416a455fa",
+    "exercise_id": "ex-003",
+    "date": "2024-01-04T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "de514e2f-61bc-44dc-b83d-8ebbe82c87d5",
+    "exercise_id": "ex-001",
+    "date": "2024-01-05T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 8,
+    "pain_level": 2,
+    "difficulty_level": 2,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "3444776d-b291-488f-8e12-1efbecfce61f",
+    "exercise_id": "ex-002",
+    "date": "2024-01-05T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "626fbe06-aca9-494f-9b1f-77a499ce8d6f",
+    "exercise_id": "ex-003",
+    "date": "2024-01-05T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "a18ba9cf-d4e8-4600-9a71-03ec1277ba1c",
+    "exercise_id": "ex-001",
+    "date": "2024-01-06T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 5,
+    "pain_level": 4,
+    "difficulty_level": 3,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "23619119-c6d7-413d-8528-2bcee07f0082",
+    "exercise_id": "ex-002",
+    "date": "2024-01-06T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 5,
+    "pain_level": 4,
+    "difficulty_level": 3,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "99a3e0f1-c6e4-4def-b6d6-26aa093d4e94",
+    "exercise_id": "ex-003",
+    "date": "2024-01-06T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 3,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "3986f95d-e5a0-4832-85d1-7f3b9a6703e9",
+    "exercise_id": "ex-001",
+    "date": "2024-01-07T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 4,
+    "difficulty_level": 2,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "1c78636c-ed75-4d39-9d34-93ff9845e59c",
+    "exercise_id": "ex-002",
+    "date": "2024-01-07T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 5,
+    "pain_level": 3,
+    "difficulty_level": 1,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "bfbd3c8c-9750-4525-b3cd-037da940ceae",
+    "exercise_id": "ex-003",
+    "date": "2024-01-07T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "dd9e86b0-b31e-471a-b1c4-8a61f5c44b08",
+    "exercise_id": "ex-001",
+    "date": "2024-01-08T10:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 7,
+    "pain_level": 3,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "79204a30-cf05-4a3a-be9e-90fcf37d5728",
+    "exercise_id": "ex-002",
+    "date": "2024-01-08T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 6,
+    "pain_level": 3,
+    "difficulty_level": 1,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "c633d844-4fb8-407e-adfb-390f48cbe65d",
+    "exercise_id": "ex-003",
+    "date": "2024-01-08T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "9be2cfce-80be-4974-8ec0-1c898ca3b1d0",
+    "exercise_id": "ex-001",
+    "date": "2024-01-09T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "e943415c-4d1a-4a2d-9c13-6cecab138a3f",
+    "exercise_id": "ex-002",
+    "date": "2024-01-09T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 7,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "018ef8c8-2755-4f0a-be8d-3cff29d9938b",
+    "exercise_id": "ex-003",
+    "date": "2024-01-09T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "020ae72c-b8c6-4041-81af-423f9b2242af",
+    "exercise_id": "ex-001",
+    "date": "2024-01-10T10:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 7,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "9408cf0d-4d0d-4ff4-bc9d-33cf214d975f",
+    "exercise_id": "ex-002",
+    "date": "2024-01-10T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 5,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "6ea1e8dd-9fce-48fa-888f-b30f17bdf246",
+    "exercise_id": "ex-003",
+    "date": "2024-01-10T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "153092d8-f2c3-409f-854f-d482fb7ddef7",
+    "exercise_id": "ex-001",
+    "date": "2024-01-11T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 8,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "bddd6233-6f1c-47de-b4c1-5678fcf73ff5",
+    "exercise_id": "ex-002",
+    "date": "2024-01-11T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 7,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "e8dfc070-d017-4521-8388-ec9c13079002",
+    "exercise_id": "ex-003",
+    "date": "2024-01-11T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "3f794a60-c3d2-4ef8-8ba0-4f0eea14b3d7",
+    "exercise_id": "ex-001",
+    "date": "2024-01-12T10:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 9,
+    "pain_level": 2,
+    "difficulty_level": 2,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "7094f4fb-40c4-4e37-a778-c126e6e3a9c2",
+    "exercise_id": "ex-002",
+    "date": "2024-01-12T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "c8f70d4c-d0f7-4c9e-aded-ffeea115dee9",
+    "exercise_id": "ex-003",
+    "date": "2024-01-12T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "7e4d995c-0247-4ff4-9734-a0b41891a6f3",
+    "exercise_id": "ex-001",
+    "date": "2024-01-13T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 7,
+    "pain_level": 3,
+    "difficulty_level": 4,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "1c7f3aff-5e7e-4949-bce7-55495b50de8a",
+    "exercise_id": "ex-002",
+    "date": "2024-01-13T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 5,
+    "pain_level": 2,
+    "difficulty_level": 4,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "009c8dd5-a6ba-493d-93fe-cabecf924000",
+    "exercise_id": "ex-003",
+    "date": "2024-01-13T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 3,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "f4d5e42b-1027-4c1b-bff8-c3246c346500",
+    "exercise_id": "ex-001",
+    "date": "2024-01-14T10:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 6,
+    "pain_level": 1,
+    "difficulty_level": 2,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "59b3c4e6-9b32-449d-b422-455d38b6b129",
+    "exercise_id": "ex-002",
+    "date": "2024-01-14T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 5,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "bab7d6d0-a7a6-4e68-afaf-1c0694e7d995",
+    "exercise_id": "ex-003",
+    "date": "2024-01-14T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "71e2fc08-d03f-4b53-a1f6-74eed6e5d3bc",
+    "exercise_id": "ex-001",
+    "date": "2024-01-15T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 8,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "3c89c4d0-a0c9-479a-a0d1-104833724642",
+    "exercise_id": "ex-002",
+    "date": "2024-01-15T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "ca8d152c-e37e-4762-86c8-6b123959f1b6",
+    "exercise_id": "ex-003",
+    "date": "2024-01-15T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "e2ce0240-1e2c-449b-b45a-a6272b8d7081",
+    "exercise_id": "ex-001",
+    "date": "2024-01-16T10:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 7,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "a7b01ad6-7699-494b-8ca8-8ca8d1708e77",
+    "exercise_id": "ex-002",
+    "date": "2024-01-16T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 6,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "5239769a-986a-4ed9-a27c-c189d0a9ef6d",
+    "exercise_id": "ex-003",
+    "date": "2024-01-16T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "857e3ef1-b33d-4ba6-974d-6ad17a6861a9",
+    "exercise_id": "ex-001",
+    "date": "2024-01-17T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 6,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "f8f83119-2367-4845-bd2f-75448b81f32e",
+    "exercise_id": "ex-002",
+    "date": "2024-01-17T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 5,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "17d70e05-f280-4fa4-afa4-a445fbdd4230",
+    "exercise_id": "ex-003",
+    "date": "2024-01-17T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "1fa2229f-ab16-4f4b-a531-296a38a74dc1",
+    "exercise_id": "ex-001",
+    "date": "2024-01-18T10:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 5,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "48185e24-ec04-434f-8c0b-a36aee13acdd",
+    "exercise_id": "ex-002",
+    "date": "2024-01-18T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 6,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "e76926fd-23ed-4d64-a807-2d27fea0eb8d",
+    "exercise_id": "ex-003",
+    "date": "2024-01-18T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "838a5382-6dde-4b5a-b971-d154eca4d1b0",
+    "exercise_id": "ex-001",
+    "date": "2024-01-19T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 8,
+    "pain_level": 2,
+    "difficulty_level": 2,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "39d66d0c-f472-4649-a982-3d126afc28e8",
+    "exercise_id": "ex-002",
+    "date": "2024-01-19T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "34d8a864-39f2-4fdc-831a-28d026549cb0",
+    "exercise_id": "ex-003",
+    "date": "2024-01-19T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "193ab6f6-7fba-474a-b2d4-9f5e2baea4f9",
+    "exercise_id": "ex-001",
+    "date": "2024-01-20T10:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 8,
+    "pain_level": 4,
+    "difficulty_level": 3,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "fc856c6c-e377-43e8-9b69-46f8c7d9754d",
+    "exercise_id": "ex-002",
+    "date": "2024-01-20T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 4,
+    "difficulty_level": 3,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "0ed4dade-9dea-45b7-bc8b-4c614e3bfb1b",
+    "exercise_id": "ex-003",
+    "date": "2024-01-20T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "3adb2451-16d4-4a24-a8ac-555e87edf44c",
+    "exercise_id": "ex-001",
+    "date": "2024-01-21T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 8,
+    "pain_level": 3,
+    "difficulty_level": 2,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "491945e1-fcd2-4232-93e9-f83bfe5be95a",
+    "exercise_id": "ex-002",
+    "date": "2024-01-21T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 6,
+    "pain_level": 3,
+    "difficulty_level": 2,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "b52b284a-12c0-40cd-8d88-633dd808906b",
+    "exercise_id": "ex-003",
+    "date": "2024-01-21T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 2,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "37489ba6-2e3a-46de-a79b-3628d1747efa",
+    "exercise_id": "ex-001",
+    "date": "2024-01-22T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 6,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "352f8791-51ee-4cd9-a8ab-3dc16449d8aa",
+    "exercise_id": "ex-002",
+    "date": "2024-01-22T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 8,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "d354aec3-8598-438c-94d7-29647ae7e39f",
+    "exercise_id": "ex-003",
+    "date": "2024-01-22T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "d42bbd36-25f4-4367-b1ef-436e69828d51",
+    "exercise_id": "ex-001",
+    "date": "2024-01-23T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "719687f7-7a2b-450a-be4e-51785d00aac0",
+    "exercise_id": "ex-002",
+    "date": "2024-01-23T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 5,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "9c4c15d1-3e42-4cca-9e65-9d7d75cc5df5",
+    "exercise_id": "ex-003",
+    "date": "2024-01-23T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "8881dfa3-015f-46d8-901e-1d6c02247952",
+    "exercise_id": "ex-001",
+    "date": "2024-01-24T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "258dc5bb-23e9-4740-9f8b-64caaa0c1040",
+    "exercise_id": "ex-002",
+    "date": "2024-01-24T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "f8b04214-8481-4be3-975c-536c5f4fbd24",
+    "exercise_id": "ex-003",
+    "date": "2024-01-24T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "f7c590ef-bbef-434c-88ca-91658fc875a3",
+    "exercise_id": "ex-001",
+    "date": "2024-01-25T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 6,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "1cb29086-a9bc-47f7-97d1-de8d00ccf245",
+    "exercise_id": "ex-002",
+    "date": "2024-01-25T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 6,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "32f1f395-ea64-4ff6-8265-fd31a394baa1",
+    "exercise_id": "ex-003",
+    "date": "2024-01-25T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "49265ddc-73c9-41c2-b92a-dfceee5d2a6e",
+    "exercise_id": "ex-001",
+    "date": "2024-01-26T10:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 2,
+    "difficulty_level": 2,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "0b242204-bf4f-42dd-b346-33417278cfe4",
+    "exercise_id": "ex-002",
+    "date": "2024-01-26T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 8,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "de9418ed-5df3-45e1-9015-87709eafaa5f",
+    "exercise_id": "ex-003",
+    "date": "2024-01-26T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "0ea269e9-ce5d-48c0-9e2d-de5ede315e75",
+    "exercise_id": "ex-001",
+    "date": "2024-01-27T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 4,
+    "difficulty_level": 3,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "497694b2-7e4e-4a15-b22e-47a1358a9c74",
+    "exercise_id": "ex-002",
+    "date": "2024-01-27T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 8,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "df68a792-a9b2-4961-bd09-403800340d16",
+    "exercise_id": "ex-003",
+    "date": "2024-01-27T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 2,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "400c761e-0b5f-4c60-a092-e17c05190b42",
+    "exercise_id": "ex-001",
+    "date": "2024-01-28T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 8,
+    "pain_level": 3,
+    "difficulty_level": 2,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "8f87d9d1-c04b-49a3-8678-6d914ec2bdd5",
+    "exercise_id": "ex-002",
+    "date": "2024-01-28T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 3,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "c6d54d92-c560-4e6b-8726-394d03e77aaa",
+    "exercise_id": "ex-003",
+    "date": "2024-01-28T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "8fb6705a-3c08-4364-8e7c-9be032d00b2e",
+    "exercise_id": "ex-001",
+    "date": "2024-01-29T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 9,
+    "pain_level": 3,
+    "difficulty_level": 1,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "a7c44f2f-aadc-4672-a3a2-86cf555464d2",
+    "exercise_id": "ex-002",
+    "date": "2024-01-29T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 8,
+    "pain_level": 3,
+    "difficulty_level": 1,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "94036b0e-2706-4c24-9946-3a19cfdb231f",
+    "exercise_id": "ex-003",
+    "date": "2024-01-29T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 1,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "b2602417-fa73-444b-9512-242b3c10359a",
+    "exercise_id": "ex-001",
+    "date": "2024-01-30T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 9,
+    "pain_level": 3,
+    "difficulty_level": 1,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "d6c03908-077f-459c-a65a-dfb4abac5855",
+    "exercise_id": "ex-002",
+    "date": "2024-01-30T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 7,
+    "pain_level": 3,
+    "difficulty_level": 1,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "dbe32f60-476e-43a1-bc8f-0632b1636f76",
+    "exercise_id": "ex-003",
+    "date": "2024-01-30T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "d39ef128-677d-4850-8ceb-c0155384f20f",
+    "exercise_id": "ex-001",
+    "date": "2024-01-31T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 8,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "aa2afa0d-ebd8-48e8-903a-967e3a67ecc7",
+    "exercise_id": "ex-002",
+    "date": "2024-01-31T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 5,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "acc2d6a8-3ba3-4dfa-a272-e56cf7284b6c",
+    "exercise_id": "ex-003",
+    "date": "2024-01-31T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "66ab97bc-1796-4ea2-91b4-03980978682e",
+    "exercise_id": "ex-001",
+    "date": "2024-02-01T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 9,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "823c9242-b016-44a5-b820-7a00fde76e62",
+    "exercise_id": "ex-002",
+    "date": "2024-02-01T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 8,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "8d507e02-5483-4d75-8cbf-71cbffb8dda1",
+    "exercise_id": "ex-003",
+    "date": "2024-02-01T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "a491ef98-9589-4c3f-82c7-ec0ec8672834",
+    "exercise_id": "ex-001",
+    "date": "2024-02-02T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 2,
+    "difficulty_level": 2,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "84bc2681-2c11-4ec4-a347-8d88e922dacb",
+    "exercise_id": "ex-002",
+    "date": "2024-02-02T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 5,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "41f736ac-0f1a-4168-bd5c-db7642ee0249",
+    "exercise_id": "ex-003",
+    "date": "2024-02-02T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "a1c5ac55-6470-4d46-aa71-aed4bc7558f1",
+    "exercise_id": "ex-001",
+    "date": "2024-02-03T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 6,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "a1670b4e-1776-4dfe-be05-577e713e0da6",
+    "exercise_id": "ex-002",
+    "date": "2024-02-03T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 5,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "06fd4aeb-cf31-4a7b-ac0d-ee2e9dcfe880",
+    "exercise_id": "ex-003",
+    "date": "2024-02-03T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 3,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "4b4ad712-134d-4f3b-aa0e-32ba08249616",
+    "exercise_id": "ex-001",
+    "date": "2024-02-04T10:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 9,
+    "pain_level": 4,
+    "difficulty_level": 2,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "db4a2832-6b08-409c-a3ec-dc0d59df6925",
+    "exercise_id": "ex-002",
+    "date": "2024-02-04T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 6,
+    "pain_level": 4,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "00922563-0a09-464e-ab62-287becd055c2",
+    "exercise_id": "ex-003",
+    "date": "2024-02-04T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 1,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "a059cd49-ba64-435e-9186-da6a4d321334",
+    "exercise_id": "ex-001",
+    "date": "2024-02-05T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 5,
+    "pain_level": 4,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "47983828-116f-4835-bc35-760ca77bfed4",
+    "exercise_id": "ex-002",
+    "date": "2024-02-05T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 6,
+    "pain_level": 4,
+    "difficulty_level": 1,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "aba8ae11-3ec4-404c-814a-f0b955e96d52",
+    "exercise_id": "ex-003",
+    "date": "2024-02-05T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "78a0efa9-8068-4a87-917b-aa8022625799",
+    "exercise_id": "ex-001",
+    "date": "2024-02-06T10:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 4,
+    "difficulty_level": 1,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "607d062f-19ff-4fe3-847d-c5ac2dc4ee1e",
+    "exercise_id": "ex-002",
+    "date": "2024-02-06T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 6,
+    "pain_level": 4,
+    "difficulty_level": 1,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "7952ff23-2819-4f3c-b923-63316da599b3",
+    "exercise_id": "ex-003",
+    "date": "2024-02-06T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 1,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "b5c32356-e6c8-4cec-acc6-97d26bb34d6d",
+    "exercise_id": "ex-001",
+    "date": "2024-02-07T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 8,
+    "pain_level": 4,
+    "difficulty_level": 1,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "740a0519-1622-427a-9f3f-557954cab51f",
+    "exercise_id": "ex-002",
+    "date": "2024-02-07T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 4,
+    "difficulty_level": 1,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "151f6fed-c2f7-439b-9708-3f1377fc2aae",
+    "exercise_id": "ex-003",
+    "date": "2024-02-07T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 1,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "d2f31c24-0980-4860-b207-1d227d16c26e",
+    "exercise_id": "ex-001",
+    "date": "2024-02-08T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 9,
+    "pain_level": 4,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "f61f6e0a-2427-4f23-80e1-c2bd8194d100",
+    "exercise_id": "ex-002",
+    "date": "2024-02-08T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 4,
+    "difficulty_level": 1,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "2654344c-036b-4037-812b-cde5ea9e6296",
+    "exercise_id": "ex-003",
+    "date": "2024-02-08T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "1236db77-8d57-4f27-90ec-67eab66d7996",
+    "exercise_id": "ex-001",
+    "date": "2024-02-09T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 5,
+    "difficulty_level": 2,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "baa72e57-86df-47e3-a94e-44f4f85a347a",
+    "exercise_id": "ex-002",
+    "date": "2024-02-09T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 5,
+    "pain_level": 6,
+    "difficulty_level": 3,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "96deb796-a393-4487-8470-cecb7612ba87",
+    "exercise_id": "ex-003",
+    "date": "2024-02-09T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 7,
+    "difficulty_level": 4,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "279efb81-0655-466a-abcd-53f4b3b8f240",
+    "exercise_id": "ex-001",
+    "date": "2024-02-10T10:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 5,
+    "pain_level": 7,
+    "difficulty_level": 4,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "7218351f-8a75-4b02-b984-e06270204db4",
+    "exercise_id": "ex-002",
+    "date": "2024-02-10T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 8,
+    "pain_level": 7,
+    "difficulty_level": 3,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "7dbe126f-e75e-47ca-a139-9e9ef5535629",
+    "exercise_id": "ex-003",
+    "date": "2024-02-10T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 7,
+    "difficulty_level": 3,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "a9118275-d12e-4d5b-923f-1e3dd5d14a42",
+    "exercise_id": "ex-001",
+    "date": "2024-02-11T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 8,
+    "pain_level": 7,
+    "difficulty_level": 3,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "1f697544-5a2c-462b-8f8d-f77f04bacc52",
+    "exercise_id": "ex-002",
+    "date": "2024-02-11T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 6,
+    "pain_level": 7,
+    "difficulty_level": 3,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "acaf2738-83c4-42cd-b28c-09756cb4d54d",
+    "exercise_id": "ex-003",
+    "date": "2024-02-11T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 6,
+    "difficulty_level": 3,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "85b70778-4f2b-4a8e-af8b-013f0bc8735d",
+    "exercise_id": "ex-001",
+    "date": "2024-02-12T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 10,
+    "pain_level": 6,
+    "difficulty_level": 3,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "5328c618-9eb2-4ec4-add1-8c1b331174fb",
+    "exercise_id": "ex-002",
+    "date": "2024-02-12T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 5,
+    "pain_level": 6,
+    "difficulty_level": 3,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "fa287b21-5cd7-4212-acf7-2e490198474d",
+    "exercise_id": "ex-003",
+    "date": "2024-02-12T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 6,
+    "difficulty_level": 2,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "60fd3ce6-f6a0-4b9a-ba2a-e7f68dc6a69b",
+    "exercise_id": "ex-001",
+    "date": "2024-02-13T10:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 9,
+    "pain_level": 5,
+    "difficulty_level": 1,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "9f429795-df64-4128-9002-f5e1e1ba2b51",
+    "exercise_id": "ex-002",
+    "date": "2024-02-13T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 5,
+    "difficulty_level": 1,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "4c0e40ec-d725-41da-af47-9c30386a3d4f",
+    "exercise_id": "ex-003",
+    "date": "2024-02-13T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "fca54c76-c3c6-4e9c-8afc-d981bde9dde3",
+    "exercise_id": "ex-001",
+    "date": "2024-02-14T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 4,
+    "difficulty_level": 1,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "dbdfa518-1c4a-4b35-bb56-3e876bc2a21a",
+    "exercise_id": "ex-002",
+    "date": "2024-02-14T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 8,
+    "pain_level": 4,
+    "difficulty_level": 1,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "11c62ccd-623e-4a6d-ae90-4aae9ce6ce0b",
+    "exercise_id": "ex-003",
+    "date": "2024-02-14T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 1,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "ef183120-5bc1-4bc2-b3ef-1bda1fa289c1",
+    "exercise_id": "ex-001",
+    "date": "2024-02-15T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 6,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "ca9c423a-cbd7-469d-804f-34e8fcbff4ef",
+    "exercise_id": "ex-002",
+    "date": "2024-02-15T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 5,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "da1f0ecf-5185-444e-bb5a-3ff58f0d69ce",
+    "exercise_id": "ex-003",
+    "date": "2024-02-15T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "22b0d460-aa1c-4ad5-b0f9-e387a7763271",
+    "exercise_id": "ex-001",
+    "date": "2024-02-16T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 8,
+    "pain_level": 2,
+    "difficulty_level": 2,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "249d4a0e-1bd8-469c-9be4-00ce9e813caf",
+    "exercise_id": "ex-002",
+    "date": "2024-02-16T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 7,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "c7166882-8e60-428b-97fc-20e2dd2d39a2",
+    "exercise_id": "ex-003",
+    "date": "2024-02-16T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "df657ba0-ba1d-4b65-a1fe-5af7cac808ee",
+    "exercise_id": "ex-001",
+    "date": "2024-02-17T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 8,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "becd3cb7-f9d5-4578-b597-46bfb30626d7",
+    "exercise_id": "ex-002",
+    "date": "2024-02-17T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 2,
+    "difficulty_level": 2,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "ab943f1f-e4e3-4761-bdf9-f48e47df3557",
+    "exercise_id": "ex-003",
+    "date": "2024-02-17T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 2,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "428ba118-795f-4433-9be7-d71ca11bccea",
+    "exercise_id": "ex-001",
+    "date": "2024-02-18T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 9,
+    "pain_level": 1,
+    "difficulty_level": 2,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "ae5e214c-8fa0-4ff9-8c35-0b9747b9262a",
+    "exercise_id": "ex-002",
+    "date": "2024-02-18T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 8,
+    "pain_level": 1,
+    "difficulty_level": 2,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "cb7ebc2d-2c81-45b8-911f-4fafdd34a78c",
+    "exercise_id": "ex-003",
+    "date": "2024-02-18T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 2,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "3a9c2085-7072-420d-ad9b-c722a501fd43",
+    "exercise_id": "ex-001",
+    "date": "2024-02-19T10:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 9,
+    "pain_level": 1,
+    "difficulty_level": 2,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "d898628c-945d-4302-adb7-2bf9c7e8b96e",
+    "exercise_id": "ex-002",
+    "date": "2024-02-19T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 1,
+    "difficulty_level": 2,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "791ddd18-6d4f-4744-812a-63f52d7a8476",
+    "exercise_id": "ex-003",
+    "date": "2024-02-19T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 2,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "84498947-3db1-4d2f-9ff3-f519b214bd13",
+    "exercise_id": "ex-001",
+    "date": "2024-02-20T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 9,
+    "pain_level": 1,
+    "difficulty_level": 2,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "25fd588f-ff38-4613-88a8-5c38911ecd71",
+    "exercise_id": "ex-002",
+    "date": "2024-02-20T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 6,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "3852cae8-ca08-4822-ab20-76b1b7523105",
+    "exercise_id": "ex-003",
+    "date": "2024-02-20T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "de0c9e71-0518-43f0-9799-1753fd942692",
+    "exercise_id": "ex-001",
+    "date": "2024-02-21T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 5,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "a4ca71d9-525f-41ce-ae41-83f5b34777a8",
+    "exercise_id": "ex-002",
+    "date": "2024-02-21T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 6,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "2ee6557e-769f-4be5-a2b7-3e2c423a5e99",
+    "exercise_id": "ex-003",
+    "date": "2024-02-21T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "4ddcd031-3a1e-4cbc-8d6a-b18b4f10aa37",
+    "exercise_id": "ex-001",
+    "date": "2024-02-22T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 8,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "856928a1-4300-4920-bceb-245892c82d51",
+    "exercise_id": "ex-002",
+    "date": "2024-02-22T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 6,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "bb16502f-fad9-4894-9741-13ef34f6b419",
+    "exercise_id": "ex-003",
+    "date": "2024-02-22T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "4701aa47-b92f-4bac-9196-c1942299e27d",
+    "exercise_id": "ex-001",
+    "date": "2024-02-23T10:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 6,
+    "pain_level": 2,
+    "difficulty_level": 2,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "c8a1a7e1-9c71-43c4-a336-922820bf123d",
+    "exercise_id": "ex-002",
+    "date": "2024-02-23T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "5319326c-ea5b-4467-bc1d-35bf2c0f6006",
+    "exercise_id": "ex-003",
+    "date": "2024-02-23T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "50ab6119-bcc0-440b-8d62-6dfeef2d4733",
+    "exercise_id": "ex-001",
+    "date": "2024-02-24T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 7,
+    "pain_level": 4,
+    "difficulty_level": 3,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "83478b38-9e1f-4ba5-833c-d5b553736a75",
+    "exercise_id": "ex-002",
+    "date": "2024-02-24T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 5,
+    "pain_level": 4,
+    "difficulty_level": 3,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "8aa1d646-36bc-43b1-822a-1837aec9e5c3",
+    "exercise_id": "ex-003",
+    "date": "2024-02-24T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 3,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "d726a9dc-d9f6-470c-af7e-96eea365af29",
+    "exercise_id": "ex-001",
+    "date": "2024-02-25T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 5,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "Pain consistent with previous session"
+  },
+  {
+    "id": "26fc1e68-760b-44b9-b827-de23099bed84",
+    "exercise_id": "ex-002",
+    "date": "2024-02-25T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 6,
+    "pain_level": 2,
+    "difficulty_level": 3,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "c2ca3ae3-cb14-4793-9142-8b2545d3575a",
+    "exercise_id": "ex-003",
+    "date": "2024-02-25T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 2,
+    "difficulty_level": 2,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "550bb1b3-0d42-4947-821b-ed4f7b255ed5",
+    "exercise_id": "ex-001",
+    "date": "2024-02-26T10:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 6,
+    "pain_level": 2,
+    "difficulty_level": 1,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "2c0f0b04-db80-4583-9e6e-8971d8ce9cac",
+    "exercise_id": "ex-002",
+    "date": "2024-02-26T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 7,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "c1411291-b919-462b-a5f1-c33f185600ed",
+    "exercise_id": "ex-003",
+    "date": "2024-02-26T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "d3619c05-6490-4501-89f3-be786c06e158",
+    "exercise_id": "ex-001",
+    "date": "2024-02-27T10:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 9,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Encouraging response to e-stim"
+  },
+  {
+    "id": "e8bc39ed-8a03-489c-b8d3-f5469a956598",
+    "exercise_id": "ex-002",
+    "date": "2024-02-27T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 6,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "29e78c2d-6889-4fb4-9fad-bc1acf1849cf",
+    "exercise_id": "ex-003",
+    "date": "2024-02-27T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "8ebbab78-aa69-4ac4-b6fd-218fa67adb1e",
+    "exercise_id": "ex-001",
+    "date": "2024-02-28T10:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 10,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "8e630a36-e70c-4f6e-9493-dc1a59b5493d",
+    "exercise_id": "ex-002",
+    "date": "2024-02-28T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 8,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "33f1fd4c-fe3c-4535-b13a-bb12ab141741",
+    "exercise_id": "ex-003",
+    "date": "2024-02-28T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "7d44d2aa-8774-4d02-b2f4-be4ea3a09700",
+    "exercise_id": "ex-001",
+    "date": "2024-02-29T10:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 7,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "92e36139-1f1c-4f32-841f-39aa1aa969b9",
+    "exercise_id": "ex-002",
+    "date": "2024-02-29T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 7,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "No issues during exercise"
+  },
+  {
+    "id": "51224dbe-ca65-4a77-89f5-c898b748930f",
+    "exercise_id": "ex-003",
+    "date": "2024-02-29T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 1,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "dbfa1a27-ee3e-4699-93c0-633435841b46",
+    "exercise_id": "ex-001",
+    "date": "2024-03-01T10:00:00Z",
+    "completed_sets": 3,
+    "completed_reps": 6,
+    "pain_level": 2,
+    "difficulty_level": 2,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "8a5ed81f-b201-4a07-9a53-effd1d658e6f",
+    "exercise_id": "ex-002",
+    "date": "2024-03-01T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 3,
+    "difficulty_level": 3,
+    "notes": "Range of motion improved slightly"
+  },
+  {
+    "id": "c16e46d3-57e7-4e1d-aeeb-a9bbeb183607",
+    "exercise_id": "ex-003",
+    "date": "2024-03-01T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "82f1e443-100c-4d64-9554-97149c98b8c9",
+    "exercise_id": "ex-001",
+    "date": "2024-03-02T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "47ecede7-ed7f-4f16-b9d0-bce76e43d3c8",
+    "exercise_id": "ex-002",
+    "date": "2024-03-02T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 5,
+    "pain_level": 4,
+    "difficulty_level": 4,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "e69fedbd-10a7-4cec-94e7-32c6a51c93cd",
+    "exercise_id": "ex-003",
+    "date": "2024-03-02T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 4,
+    "difficulty_level": 3,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "d3a50770-2603-4c9d-8b63-c7b9b47a2877",
+    "exercise_id": "ex-001",
+    "date": "2024-03-03T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 10,
+    "pain_level": 4,
+    "difficulty_level": 2,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "36cbbbda-1eda-4d7c-ba9f-00b26a42f6d7",
+    "exercise_id": "ex-002",
+    "date": "2024-03-03T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 5,
+    "pain_level": 4,
+    "difficulty_level": 2,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "9e1c37b8-7d55-4748-b23c-c629a6889507",
+    "exercise_id": "ex-003",
+    "date": "2024-03-03T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 1,
+    "notes": "Mild soreness in shoulder"
+  },
+  {
+    "id": "462709dc-e63c-4b0e-9299-4162496d9a06",
+    "exercise_id": "ex-001",
+    "date": "2024-03-04T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": 7,
+    "pain_level": 3,
+    "difficulty_level": 1,
+    "notes": "Fatigue midway through exercise"
+  },
+  {
+    "id": "6398a502-49d7-4aea-830c-44f63853e733",
+    "exercise_id": "ex-002",
+    "date": "2024-03-04T10:00:00Z",
+    "completed_sets": 2,
+    "completed_reps": 6,
+    "pain_level": 3,
+    "difficulty_level": 1,
+    "notes": "Felt stronger today"
+  },
+  {
+    "id": "8ed17b1f-5afa-4ebf-8ece-8e58d4aa5a59",
+    "exercise_id": "ex-003",
+    "date": "2024-03-04T10:00:00Z",
+    "completed_sets": 1,
+    "completed_reps": null,
+    "pain_level": 3,
+    "difficulty_level": 1,
+    "notes": "Felt stronger today"
+  }
+]

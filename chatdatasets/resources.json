@@ -1,0 +1,26 @@
+[
+  {
+    "id": "res-001",
+    "title": "Understanding C4/C5 Injuries",
+    "type": "article",
+    "url": "https://www.spine-health.com/conditions/spine-anatomy/c4-c5-spinal-motion-segment",
+    "description": "Detailed article explaining the C4/C5 spinal motion segment, common injuries and recovery considerations",
+    "added_date": "2023-11-30T00:00:00Z"
+  },
+  {
+    "id": "res-002",
+    "title": "Deltoid Activation with E-Stim - Protocols",
+    "type": "video",
+    "url": "https://example.com/deltoid-estim-video",
+    "description": "Demonstration of e-stim pad placement and deltoid stimulation for nerve re-education",
+    "added_date": "2023-12-02T00:00:00Z"
+  },
+  {
+    "id": "res-003",
+    "title": "Passive Range of Motion Techniques",
+    "type": "guide",
+    "url": "https://example.com/prom-guide",
+    "description": "Illustrated manual of PROM techniques for upper extremity rehab",
+    "added_date": "2023-12-03T00:00:00Z"
+  }
+]
