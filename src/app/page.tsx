@@ -23,7 +23,7 @@ import {
 
 // Use environment variable for API base URL
 // Fallback to local Next.js API routes if variable not set
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || 'https://rocky-backend.onrender.com/api';
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || '/api';
 console.log(`Using API Base URL: ${API_BASE_URL}`);
 
 export default function Home() {
@@ -63,9 +63,13 @@ export default function Home() {
     try {
       const response = await fetch(`${API_BASE_URL}/rehab-plan`);
       if (!response.ok) {
+        console.error(`Failed to fetch rehab plan: ${response.status} ${response.statusText}`);
+        const errorText = await response.text();
+        console.error(`Error details: ${errorText}`);
         throw new Error(`HTTP error! status: ${response.status}`);
       }
       const planData = await response.json();
+      console.log("Rehab plan data loaded:", planData);
       setRehabPlan(planData);
     } catch (error) {
       console.error("Error fetching rehab plan:", error);
